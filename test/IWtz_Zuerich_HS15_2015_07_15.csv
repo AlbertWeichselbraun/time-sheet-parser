@@ -1,0 +1,242 @@
+,,Datum,Von,,Bis,k1,i1,d1,r1,k2,i2,d2,r2,k3,i3,d3,r3,k4,i4,d4,r4,,,,,,,,,,
+Hochschule für Technik und Wirtschaft (HTW) Chur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HS 2015 / Stundenplan IW Teilzeit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ver. 0.0,,7/17/2015,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,I1tz = IW15_tz,,,,I3tz = IW14_tz,,,,I5tz = IW13_tz,,,,I7tz = IW12_tz,,,,,,,,,,,,Anfang,Ende
+KW,WT,Datum,Zeit,,,Fach1,IdAnlass,Doz,Raum,Fach3,IdAnlass,Doz,Raum,Fach5,IdAnlass,Doz,Raum,Fach7,IdAnlass,Doz,Raum,SW,,Kollisionen = 1,,,,,,,
+37,Wed,9/9/2015,10:15,-,11:50,EINF,,,,,,,,,,,,,,,,0,,,,,,,,TT.09.JJJJ 10:15,TT.09.JJJJ 11:50
+37,Wed,9/9/2015,13:15,-,14:50,EINF,,,,IMWM/S,19916,Schade Edzard,,,,,,PK,20033,"Mumenthaler Rudolf, Schuldt Karsten, Wenk Bruno",,,,,,,,,,TT.09.JJJJ 13:15,TT.09.JJJJ 14:50
+37,Wed,9/9/2015,15:15,-,16:50,EINF,,,,IMWM/S,19916,Schade Edzard,,,,,,PK,20033,"Mumenthaler Rudolf, Schuldt Karsten, Wenk Bruno",,,,,,,,,,TT.09.JJJJ 15:15,TT.09.JJJJ 16:50
+37,Wed,9/9/2015,17:00,-,18:30,EINF,,,,,,,,,,,,,,,,,,,,,,,,TT.09.JJJJ 17:00,TT.09.JJJJ 18:30
+37,Thu,9/10/2015,8:15,-,9:50,WARP/V,19994,Vardanyan Ekaterina,,PROG/W,19917,Weichselbraun Albert,,,,,,STIM/S,19931,Schade Edzard,,,,,,,,,,TT.09.JJJJ 08:15,TT.09.JJJJ 09:50
+37,Thu,9/10/2015,10:15,-,11:50,WARP/V,19994,Vardanyan Ekaterina,,PROG/W,19917,Weichselbraun Albert,,,,,,STIM/S,19931,Schade Edzard,,,,,,,,,,TT.09.JJJJ 10:15,TT.09.JJJJ 11:50
+37,Thu,9/10/2015,13:15,-,14:50,WARP/V,19994,Vardanyan Ekaterina,,PROG/O,19917,Odoni Fabian,,KIS/H,19923,Hauser-Ehninger Ulrich,,STIM/S,19931,Schade Edzard,,,,,,,,,,TT.09.JJJJ 13:15,TT.09.JJJJ 14:50
+37,Thu,9/10/2015,15:15,-,16:50,WARP/V,19994,Vardanyan Ekaterina,,PROG/O,19917,Odoni Fabian,,KIS/H,19923,Hauser-Ehninger Ulrich,,STIM/S,19931,Schade Edzard,,,,,,,,,,TT.09.JJJJ 15:15,TT.09.JJJJ 16:50
+37,Thu,9/10/2015,17:00,-,18:30,,,,,,,,,,,,,,,,,,,,,,,,,TT.09.JJJJ 17:00,TT.09.JJJJ 18:30
+37,Fri,9/11/2015,8:15,-,9:50,GLIW/I,19989,Semar Wolfgang,,IR1,19918,Bekavac Bernard,,AS,19930,Baur Patrick,,STIM/S,19931,Schade Edzard,,,,,,,,,,TT.09.JJJJ 08:15,TT.09.JJJJ 09:50
+37,Fri,9/11/2015,10:15,-,11:50,GLIW/I,19989,Semar Wolfgang,,IR1,19918,Bekavac Bernard,,AS,19930,Baur Patrick,,STIM/S,19931,Schade Edzard,,,,,,,,,,TT.09.JJJJ 10:15,TT.09.JJJJ 11:50
+37,Fri,9/11/2015,13:15,-,14:50,WOR1,19995,Semar Wolfgang,,IMWM/S,19916,Schade Edzard,,IVM/T,19925,Titschack Ingo,,RMAN,19932,"Stettler Niklaus, Aschwanden Michael, Wenk Rea",,,,,,,,,,TT.09.JJJJ 13:15,TT.09.JJJJ 14:50
+37,Fri,9/11/2015,15:15,-,16:50,WOR1,19995,Semar Wolfgang,,IMWM/S,19916,Schade Edzard,,IVM/T,19925,Titschack Ingo,,RMAN,19932,"Stettler Niklaus, Aschwanden Michael, Wenk Rea",,,,,,,,,,TT.09.JJJJ 15:15,TT.09.JJJJ 16:50
+37,Sat,9/12/2015,8:15,-,9:50,GINF,19990,Francolino Vincenzo,,,,,,KIS/W,19923,Weinhold Thomas,,,,,,,,,,,,,,TT.09.JJJJ 08:15,TT.09.JJJJ 09:50
+37,Sat,9/12/2015,10:15,-,11:50,GINF,19990,Francolino Vincenzo,,,,,,KIS/W,19923,Weinhold Thomas,,,,,,,,,,,,,,TT.09.JJJJ 10:15,TT.09.JJJJ 11:50
+37,Sat,9/12/2015,12:15,-,13:50,,,,,,,,,KIS/W,19923,Weinhold Thomas,,,,,,,,,,,,,,TT.09.JJJJ 12:15,TT.09.JJJJ 13:50
+38,Tue,9/15/2015,13:15,-,14:50,,,,,,,,,,,,,,,,,1,,,,,,,,TT.09.JJJJ 13:15,TT.09.JJJJ 14:50
+38,Tue,9/15/2015,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.09.JJJJ 15:15,TT.09.JJJJ 16:50
+38,Tue,9/15/2015,17:00,-,18:30,GINF,19990,Francolino Vincenzo,,PROG/W,19917,Weichselbraun Albert,,MARK,19927,Schär Armando,,RMAN,19932,"Stettler Niklaus, Aschwanden Michael, Wenk Rea",,,,,,,,,,TT.09.JJJJ 17:00,TT.09.JJJJ 18:30
+38,Tue,9/15/2015,19:00,-,20:30,GINF,19990,Francolino Vincenzo,,PROG/W,19917,Weichselbraun Albert,,MARK,19927,Schär Armando,,RMAN,19932,"Stettler Niklaus, Aschwanden Michael, Wenk Rea",,,,,,,,,,TT.09.JJJJ 19:00,TT.09.JJJJ 20:30
+38,Fri,9/18/2015,8:30,-,10:00,GLIW/B,19989,"Mumenthaler Rudolf, Schuldt Karsten",,BWGL2,19920,Stocker Pascal,,KIS/H,19923,Hauser-Ehninger Ulrich,,SEM,20035,Hauser-Ehninger Ulrich,,,,,,1,,,,TT.09.JJJJ 08:30,TT.09.JJJJ 10:00
+38,Fri,9/18/2015,10:30,-,12:00,GLIW/B,19989,"Mumenthaler Rudolf, Schuldt Karsten",,BWGL2,19920,Stocker Pascal,,KIS/H,19923,Hauser-Ehninger Ulrich,,SEM,20035,Hauser-Ehninger Ulrich,,,,,,1,,,,TT.09.JJJJ 10:30,TT.09.JJJJ 12:00
+38,Fri,9/18/2015,13:00,-,14:30,GLIW/A,19989,von Rütte Hans,,IK,19919,Böller Nadja,,DILZA,19924,"Stettler Niklaus, Schade Edzard",,BMAN,19933,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.09.JJJJ 13:00,TT.09.JJJJ 14:30
+38,Fri,9/18/2015,15:00,-,16:30,GLIW/A,19989,von Rütte Hans,,IK,19919,Böller Nadja,,DILZA,19924,"Stettler Niklaus, Schade Edzard",,BMAN,19933,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.09.JJJJ 15:00,TT.09.JJJJ 16:30
+39,Tue,9/22/2015,13:15,-,14:50,,,,,,,,,,,,,,,,,2,,,,,,,,TT.09.JJJJ 13:15,TT.09.JJJJ 14:50
+39,Tue,9/22/2015,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.09.JJJJ 15:15,TT.09.JJJJ 16:50
+39,Tue,9/22/2015,17:00,-,18:30,GINF,19990,Francolino Vincenzo,,IMWM/S,19916,Schade Edzard,,MARK,19927,Schär Armando,,PK,20033,"Mumenthaler Rudolf, Schuldt Karsten, Wenk Bruno",,,,,,,,,,TT.09.JJJJ 17:00,TT.09.JJJJ 18:30
+39,Tue,9/22/2015,19:00,-,20:30,GINF,19990,Francolino Vincenzo,,IMWM/S,19916,Schade Edzard,,MARK,19927,Schär Armando,,PK,20033,"Mumenthaler Rudolf, Schuldt Karsten, Wenk Bruno",,,,,,,,,,TT.09.JJJJ 19:00,TT.09.JJJJ 20:30
+39,Fri,9/25/2015,8:30,-,10:00,WARP/S,19994,Seifert Bettina,,PROG/W,19917,Weichselbraun Albert,,IVM/S,19925,Schade Edzard,,STIM/K,19931,Kraus Pavel,,,,,,,,,,TT.09.JJJJ 08:30,TT.09.JJJJ 10:00
+39,Fri,9/25/2015,10:30,-,12:00,WARP/S,19994,Seifert Bettina,,PROG/W,19917,Weichselbraun Albert,,IVM/S,19925,Schade Edzard,,STIM/K,19931,Kraus Pavel,,,,,,,,,,TT.09.JJJJ 10:30,TT.09.JJJJ 12:00
+39,Fri,9/25/2015,13:00,-,14:30,WOR1,19995,Semar Wolfgang,,IR1,19918,Bekavac Bernard,,AS,19930,Baur Patrick,,BMAN,19933,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.09.JJJJ 13:00,TT.09.JJJJ 14:30
+39,Fri,9/25/2015,15:00,-,16:30,WOR1,19995,Semar Wolfgang,,IR1,19918,Bekavac Bernard,,AS,19930,Baur Patrick,,BMAN,19933,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.09.JJJJ 15:00,TT.09.JJJJ 16:30
+40,Tue,9/29/2015,13:15,-,14:50,,,,,,,,,,,,,,,,,3,,,,,,,,TT.09.JJJJ 13:15,TT.09.JJJJ 14:50
+40,Tue,9/29/2015,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.09.JJJJ 15:15,TT.09.JJJJ 16:50
+40,Tue,9/29/2015,17:00,-,18:30,GINF,19990,Francolino Vincenzo,,PROG/O,19917,Odoni Fabian,,MARK,19927,Schär Armando,,RMAN,19932,"Stettler Niklaus, Aschwanden Michael, Wenk Rea",,,,,,,,,,TT.09.JJJJ 17:00,TT.09.JJJJ 18:30
+40,Tue,9/29/2015,19:00,-,20:30,GINF,19990,Francolino Vincenzo,,PROG/O,19917,Odoni Fabian,,MARK,19927,Schär Armando,,RMAN,19932,"Stettler Niklaus, Aschwanden Michael, Wenk Rea",,,,,,,,,,TT.09.JJJJ 19:00,TT.09.JJJJ 20:30
+40,Fri,10/2/2015,8:30,-,10:00,WARP/C,19994,Capatt Iris,,BWGL2,19920,Stocker Pascal,,KIS/W,19923,Weinhold Thomas,,,,,,,,,,,,,,TT.10.JJJJ 08:30,TT.10.JJJJ 10:00
+40,Fri,10/2/2015,10:30,-,12:00,WARP/C,19994,Capatt Iris,,BWGL2,19920,Stocker Pascal,,KIS/W,19923,Weinhold Thomas,,,,,,,,,,,,,,TT.10.JJJJ 10:30,TT.10.JJJJ 12:00
+40,Fri,10/2/2015,13:00,-,14:30,GLIW/I,19989,Semar Wolfgang,,IK,19919,Böller Nadja,,DILZA,19924,"Stettler Niklaus, Schade Edzard",,,,,,,,,,,,,,TT.10.JJJJ 13:00,TT.10.JJJJ 14:30
+40,Fri,10/2/2015,15:00,-,16:30,GLIW/I,19989,Semar Wolfgang,,IK,19919,Böller Nadja,,DILZA,19924,"Stettler Niklaus, Schade Edzard",,,,,,,,,,,,,,TT.10.JJJJ 15:00,TT.10.JJJJ 16:30
+41,Tue,10/6/2015,13:15,-,14:50,,,,,,,,,,,,,,,,,4,,,,,,,,TT.10.JJJJ 13:15,TT.10.JJJJ 14:50
+41,Tue,10/6/2015,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.10.JJJJ 15:15,TT.10.JJJJ 16:50
+41,Tue,10/6/2015,17:00,-,18:30,WOR1,19995,Semar Wolfgang,,IMWM/S,19916,Schade Edzard,,KIS/H,19923,Hauser-Ehninger Ulrich,,PK,20033,"Mumenthaler Rudolf, Schuldt Karsten, Wenk Bruno",,,,,,,,,,TT.10.JJJJ 17:00,TT.10.JJJJ 18:30
+41,Tue,10/6/2015,19:00,-,20:30,WOR1,19995,Semar Wolfgang,,IMWM/S,19916,Schade Edzard,,KIS/H,19923,Hauser-Ehninger Ulrich,,PK,20033,"Mumenthaler Rudolf, Schuldt Karsten, Wenk Bruno",,,,,,,,,,TT.10.JJJJ 19:00,TT.10.JJJJ 20:30
+41,Fri,10/9/2015,8:30,-,10:00,GINF,19990,Francolino Vincenzo,,PRQM,19921,Studer Jürg,,IVM/T,19925,Titschack Ingo,,,,,,,,,,,,,,TT.10.JJJJ 08:30,TT.10.JJJJ 10:00
+41,Fri,10/9/2015,10:30,-,12:00,GINF,19990,Francolino Vincenzo,,PRQM,19921,Studer Jürg,,IVM/T,19925,Titschack Ingo,,,,,,,,,,,,,,TT.10.JJJJ 10:30,TT.10.JJJJ 12:00
+41,Fri,10/9/2015,13:00,-,14:30,GLIW/A,19989,von Rütte Hans,,PROG/W,19917,Weichselbraun Albert,,DILZA,19924,"Stettler Niklaus, Schade Edzard",,BMAN,19933,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.10.JJJJ 13:00,TT.10.JJJJ 14:30
+41,Fri,10/9/2015,15:00,-,16:30,GLIW/A,19989,von Rütte Hans,,PROG/W,19917,Weichselbraun Albert,,DILZA,19924,"Stettler Niklaus, Schade Edzard",,BMAN,19933,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.10.JJJJ 15:00,TT.10.JJJJ 16:30
+43,Tue,10/20/2015,13:15,-,14:50,,,,,,,,,,,,,,,,,5,,,,,,,,TT.10.JJJJ 13:15,TT.10.JJJJ 14:50
+43,Tue,10/20/2015,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.10.JJJJ 15:15,TT.10.JJJJ 16:50
+43,Tue,10/20/2015,17:00,-,18:30,GLIW/B,19989,"Mumenthaler Rudolf, Schuldt Karsten",,PROG/O,19917,Odoni Fabian,,MARK,19927,Schär Armando,,RMAN,19932,"Stettler Niklaus, Aschwanden Michael, Wenk Rea",,,,,,,,,,TT.10.JJJJ 17:00,TT.10.JJJJ 18:30
+43,Tue,10/20/2015,19:00,-,20:30,GLIW/B,19989,"Mumenthaler Rudolf, Schuldt Karsten",,PROG/O,19917,Odoni Fabian,,MARK,19927,Schär Armando,,RMAN,19932,"Stettler Niklaus, Aschwanden Michael, Wenk Rea",,,,,,,,,,TT.10.JJJJ 19:00,TT.10.JJJJ 20:30
+43,Fri,10/23/2015,8:30,-,10:00,WARP/C,19994,Capatt Iris,,PRQM,19921,Studer Jürg,,AS,19930,Baur Patrick,,STIM/K,19931,Kraus Pavel,,,,,,,,,,TT.10.JJJJ 08:30,TT.10.JJJJ 10:00
+43,Fri,10/23/2015,10:30,-,12:00,WARP/C,19994,Capatt Iris,,PRQM,19921,Studer Jürg,,AS,19930,Baur Patrick,,STIM/K,19931,Kraus Pavel,,,,,,,,,,TT.10.JJJJ 10:30,TT.10.JJJJ 12:00
+43,Fri,10/23/2015,13:00,-,14:30,WOR1,19995,Semar Wolfgang,,IK,19919,Böller Nadja,,DILZA,19924,"Stettler Niklaus, Schade Edzard",,BMAN,19933,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.10.JJJJ 13:00,TT.10.JJJJ 14:30
+43,Fri,10/23/2015,15:00,-,16:30,WOR1,19995,Semar Wolfgang,,IK,19919,Böller Nadja,,DILZA,19924,"Stettler Niklaus, Schade Edzard",,BMAN,19933,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.10.JJJJ 15:00,TT.10.JJJJ 16:30
+44,Tue,10/27/2015,13:15,-,14:50,,,,,,,,,,,,,,,,,6,,,,,,,,TT.10.JJJJ 13:15,TT.10.JJJJ 14:50
+44,Tue,10/27/2015,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.10.JJJJ 15:15,TT.10.JJJJ 16:50
+44,Tue,10/27/2015,17:00,-,18:30,GLIW/I,19989,Semar Wolfgang,,PRQM,19921,Studer Jürg,,MARK,19927,Schär Armando,,,,,,,,,,,,,,TT.10.JJJJ 17:00,TT.10.JJJJ 18:30
+44,Tue,10/27/2015,19:00,-,20:30,GLIW/I,19989,Semar Wolfgang,,PRQM,19921,Studer Jürg,,MARK,19927,Schär Armando,,,,,,,,,,,,,,TT.10.JJJJ 19:00,TT.10.JJJJ 20:30
+44,Fri,10/30/2015,8:30,-,10:00,GLIW/E,19989,"Semar Wolfgang, Mumenthaler Rudolf, Schuldt Karsten, von Rütte Hans",,PROG/W,19917,Weichselbraun Albert,,KIS/H,19923,Hauser-Ehninger Ulrich,,,,,,,,,,,,,,TT.10.JJJJ 08:30,TT.10.JJJJ 10:00
+44,Fri,10/30/2015,10:30,-,12:00,GLIW/A,19989,von Rütte Hans,,PROG/W,19917,Weichselbraun Albert,,KIS/H,19923,Hauser-Ehninger Ulrich,,,,,,,,,,,,,,TT.10.JJJJ 10:30,TT.10.JJJJ 12:00
+44,Fri,10/30/2015,13:00,-,14:30,GLIW/A,19989,von Rütte Hans,,IR1,19918,Bekavac Bernard,,IVM/S,19925,Schade Edzard,,BMAN,19933,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.10.JJJJ 13:00,TT.10.JJJJ 14:30
+44,Fri,10/30/2015,15:00,-,16:30,GLIW/A,19989,von Rütte Hans,,IR1,19918,Bekavac Bernard,,IVM/S,19925,Schade Edzard,,BMAN,19933,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.10.JJJJ 15:00,TT.10.JJJJ 16:30
+45,Tue,11/3/2015,13:15,-,14:50,,,,,,,,,,,,,,,,,7,,,,,,,,TT.11.JJJJ 13:15,TT.11.JJJJ 14:50
+45,Tue,11/3/2015,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.11.JJJJ 15:15,TT.11.JJJJ 16:50
+45,Tue,11/3/2015,17:00,-,18:30,WOR1,19995,Semar Wolfgang,,IMWM/S,19916,Schade Edzard,,MARK,19927,Schär Armando,,PK,20033,"Mumenthaler Rudolf, Schuldt Karsten, Wenk Bruno",,,,,,,,,,TT.11.JJJJ 17:00,TT.11.JJJJ 18:30
+45,Tue,11/3/2015,19:00,-,20:30,WOR1,19995,Semar Wolfgang,,IMWM/S,19916,Schade Edzard,,MARK,19927,Schär Armando,,PK,20033,"Mumenthaler Rudolf, Schuldt Karsten, Wenk Bruno",,,,,,,,,,TT.11.JJJJ 19:00,TT.11.JJJJ 20:30
+45,Fri,11/6/2015,8:30,-,10:00,WARP/C,19994,Capatt Iris,,PROG/W,19917,Weichselbraun Albert,,AS,19930,Baur Patrick,,RMAN,19932,"Stettler Niklaus, Aschwanden Michael, Wenk Rea",,,,,,,,,,TT.11.JJJJ 08:30,TT.11.JJJJ 10:00
+45,Fri,11/6/2015,10:30,-,12:00,WARP/C,19994,Capatt Iris,,PROG/W,19917,Weichselbraun Albert,,AS,19930,Baur Patrick,,RMAN,19932,"Stettler Niklaus, Aschwanden Michael, Wenk Rea",,,,,,,,,,TT.11.JJJJ 10:30,TT.11.JJJJ 12:00
+45,Fri,11/6/2015,13:00,-,14:30,GINF,19990,Francolino Vincenzo,,IK,19919,Böller Nadja,,DILZA,19924,"Stettler Niklaus, Schade Edzard",,,,,,,,,,,,,,TT.11.JJJJ 13:00,TT.11.JJJJ 14:30
+45,Fri,11/6/2015,15:00,-,16:30,GINF,19990,Francolino Vincenzo,,IK,19919,Böller Nadja,,DILZA,19924,"Stettler Niklaus, Schade Edzard",,,,,,,,,,,,,,TT.11.JJJJ 15:00,TT.11.JJJJ 16:30
+46,Tue,11/10/2015,13:15,-,14:50,,,,,,,,,,,,,,,,,8,,,,,,,,TT.11.JJJJ 13:15,TT.11.JJJJ 14:50
+46,Tue,11/10/2015,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.11.JJJJ 15:15,TT.11.JJJJ 16:50
+46,Tue,11/10/2015,17:00,-,18:30,GLIW/I,19989,Semar Wolfgang,,BWGL2,19920,Stocker Pascal,,AS,19930,Baur Patrick,,STIM/K,19931,Kraus Pavel,,,,,,,,,,TT.11.JJJJ 17:00,TT.11.JJJJ 18:30
+46,Tue,11/10/2015,19:00,-,20:30,GLIW/I,19989,Semar Wolfgang,,BWGL2,19920,Stocker Pascal,,AS,19930,Baur Patrick,,STIM/K,19931,Kraus Pavel,,,,,,,,,,TT.11.JJJJ 19:00,TT.11.JJJJ 20:30
+46,Fri,11/13/2015,8:30,-,10:00,WARP/C,19994,Capatt Iris,,PRQM,19921,Studer Jürg,,IVM/T,19925,Titschack Ingo,,SEM,20035,Hauser-Ehninger Ulrich,,,,,,,,,,TT.11.JJJJ 08:30,TT.11.JJJJ 10:00
+46,Fri,11/13/2015,10:30,-,12:00,WARP/C,19994,Capatt Iris,,PRQM,19921,Studer Jürg,,IVM/T,19925,Titschack Ingo,,SEM,20035,Hauser-Ehninger Ulrich,,,,,,,,,,TT.11.JJJJ 10:30,TT.11.JJJJ 12:00
+46,Fri,11/13/2015,13:00,-,14:30,GLIW/A,19989,von Rütte Hans,,PROG/O,19917,Odoni Fabian,,KIS/H,19923,Hauser-Ehninger Ulrich,,BMAN,19933,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.11.JJJJ 13:00,TT.11.JJJJ 14:30
+46,Fri,11/13/2015,15:00,-,16:30,GLIW/A,19989,von Rütte Hans,,PROG/O,19917,Odoni Fabian,,KIS/H,19923,Hauser-Ehninger Ulrich,,BMAN,19933,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.11.JJJJ 15:00,TT.11.JJJJ 16:30
+47,Tue,11/17/2015,13:15,-,14:50,,,,,,,,,,,,,,,,,9,,,,,,,,TT.11.JJJJ 13:15,TT.11.JJJJ 14:50
+47,Tue,11/17/2015,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.11.JJJJ 15:15,TT.11.JJJJ 16:50
+47,Tue,11/17/2015,17:00,-,18:30,WARP/W,19994,"Wahl Wolfgang, Günter Elisabeth",,PROG/O,19917,Odoni Fabian,,MARK,19927,Schär Armando,,,,,,,,,,,,,,TT.11.JJJJ 17:00,TT.11.JJJJ 18:30
+47,Tue,11/17/2015,19:00,-,20:30,WARP/W,19994,"Wahl Wolfgang, Günter Elisabeth",,PROG/O,19917,Odoni Fabian,,MARK,19927,Schär Armando,,,,,,,,,,,,,,TT.11.JJJJ 19:00,TT.11.JJJJ 20:30
+47,Fri,11/20/2015,8:30,-,10:00,WARP/V,19994,Vardanyan Ekaterina,,PRQM,19921,Studer Jürg,,AS,19930,Baur Patrick,,RMAN,19932,"Stettler Niklaus, Aschwanden Michael, Wenk Rea",,,,,,,,,,TT.11.JJJJ 08:30,TT.11.JJJJ 10:00
+47,Fri,11/20/2015,10:30,-,12:00,WARP/V,19994,Vardanyan Ekaterina,,PRQM,19921,Studer Jürg,,AS,19930,Baur Patrick,,RMAN,19932,"Stettler Niklaus, Aschwanden Michael, Wenk Rea",,,,,,,,,,TT.11.JJJJ 10:30,TT.11.JJJJ 12:00
+47,Fri,11/20/2015,13:00,-,14:30,WOR1,19995,Semar Wolfgang,,IR1,19918,Bekavac Bernard,,DILZA,19924,"Stettler Niklaus, Schade Edzard",,BMAN,19933,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.11.JJJJ 13:00,TT.11.JJJJ 14:30
+47,Fri,11/20/2015,15:00,-,16:30,WOR1,19995,Semar Wolfgang,,IR1,19918,Bekavac Bernard,,DILZA,19924,"Stettler Niklaus, Schade Edzard",,BMAN,19933,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.11.JJJJ 15:00,TT.11.JJJJ 16:30
+48,Tue,11/24/2015,13:15,-,14:50,,,,,,,,,,,,,,,,,10,,,,,,,,TT.11.JJJJ 13:15,TT.11.JJJJ 14:50
+48,Tue,11/24/2015,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.11.JJJJ 15:15,TT.11.JJJJ 16:50
+48,Tue,11/24/2015,17:00,-,18:30,WOR1,19995,Semar Wolfgang,,IMWM/K,19916,Kraus Pavel,,MARK,19927,Schär Armando,,PK,20033,"Mumenthaler Rudolf, Schuldt Karsten, Wenk Bruno",,,,,,,,,,TT.11.JJJJ 17:00,TT.11.JJJJ 18:30
+48,Tue,11/24/2015,19:00,-,20:30,WOR1,19995,Semar Wolfgang,,IMWM/K,19916,Kraus Pavel,,MARK,19927,Schär Armando,,PK,20033,"Mumenthaler Rudolf, Schuldt Karsten, Wenk Bruno",,,,,,,,,,TT.11.JJJJ 19:00,TT.11.JJJJ 20:30
+48,Fri,11/27/2015,8:30,-,10:00,GLIW/E,19989,"Semar Wolfgang, Mumenthaler Rudolf, Schuldt Karsten, von Rütte Hans",,BWGL2,19920,Stocker Pascal,,KIS/H,19923,Hauser-Ehninger Ulrich,,RMAN,19932,"Stettler Niklaus, Aschwanden Michael, Wenk Rea",,,,,,,,,,TT.11.JJJJ 08:30,TT.11.JJJJ 10:00
+48,Fri,11/27/2015,10:30,-,12:00,GLIW/E,19989,"Semar Wolfgang, Mumenthaler Rudolf, Schuldt Karsten, von Rütte Hans",,BWGL2,19920,Stocker Pascal,,KIS/H,19923,Hauser-Ehninger Ulrich,,RMAN,19932,"Stettler Niklaus, Aschwanden Michael, Wenk Rea",,,,,,,,,,TT.11.JJJJ 10:30,TT.11.JJJJ 12:00
+48,Fri,11/27/2015,13:00,-,14:30,GLIW/B,19989,"Mumenthaler Rudolf, Schuldt Karsten",,BWGL2,19920,Stocker Pascal,,IVM/S,19925,Schade Edzard,,WTA2,19934,Hauser-Ehninger Ulrich,,,,,,,,,,TT.11.JJJJ 13:00,TT.11.JJJJ 14:30
+48,Fri,11/27/2015,15:00,-,16:30,GLIW/B,19989,"Mumenthaler Rudolf, Schuldt Karsten",,BWGL2,19920,Stocker Pascal,,IVM/S,19925,Schade Edzard,,WTA2,19934,Hauser-Ehninger Ulrich,,,,,,,,,,TT.11.JJJJ 15:00,TT.11.JJJJ 16:30
+49,Tue,12/1/2015,13:15,-,14:50,,,,,,,,,,,,,,,,,11,,,,,,,,TT.12.JJJJ 13:15,TT.12.JJJJ 14:50
+49,Tue,12/1/2015,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.12.JJJJ 15:15,TT.12.JJJJ 16:50
+49,Tue,12/1/2015,17:00,-,18:30,WARP/W,19994,"Wahl Wolfgang, Günter Elisabeth",,PRQM,19921,Studer Jürg,,MARK,19927,Schär Armando,,,,,,,,,,,,,,TT.12.JJJJ 17:00,TT.12.JJJJ 18:30
+49,Tue,12/1/2015,19:00,-,20:30,WARP/W,19994,"Wahl Wolfgang, Günter Elisabeth",,PRQM,19921,Studer Jürg,,MARK,19927,Schär Armando,,,,,,,,,,,,,,TT.12.JJJJ 19:00,TT.12.JJJJ 20:30
+49,Fri,12/4/2015,8:30,-,10:00,GINF,19990,Francolino Vincenzo,,IK,19919,Böller Nadja,,AS,19930,Baur Patrick,,STIM/S,19931,Schade Edzard,,,,,,,,,,TT.12.JJJJ 08:30,TT.12.JJJJ 10:00
+49,Fri,12/4/2015,10:30,-,12:00,GINF,19990,Francolino Vincenzo,,IK,19919,Böller Nadja,,AS,19930,Baur Patrick,,STIM/S,19931,Schade Edzard,,,,,,,,,,TT.12.JJJJ 10:30,TT.12.JJJJ 12:00
+49,Fri,12/4/2015,13:00,-,14:30,GLIW/I,19989,Semar Wolfgang,,IR1,19918,Bekavac Bernard,,DILZA,19924,"Stettler Niklaus, Schade Edzard",,BMAN,19933,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.12.JJJJ 13:00,TT.12.JJJJ 14:30
+49,Fri,12/4/2015,15:00,-,16:30,GLIW/I,19989,Semar Wolfgang,,IR1,19918,Bekavac Bernard,,DILZA,19924,"Stettler Niklaus, Schade Edzard",,BMAN,19933,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.12.JJJJ 15:00,TT.12.JJJJ 16:30
+50,Tue,12/8/2015,13:15,-,14:50,,,,,,,,,,,,,,,,,12,,,,,,,,TT.12.JJJJ 13:15,TT.12.JJJJ 14:50
+50,Tue,12/8/2015,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.12.JJJJ 15:15,TT.12.JJJJ 16:50
+50,Tue,12/8/2015,17:00,-,18:30,WARP/W,19994,"Wahl Wolfgang, Günter Elisabeth",,IMWM/K,19916,Kraus Pavel,,AS,19930,Baur Patrick,,RMAN,19932,"Stettler Niklaus, Aschwanden Michael, Wenk Rea",,,,,,,,,,TT.12.JJJJ 17:00,TT.12.JJJJ 18:30
+50,Tue,12/8/2015,19:00,-,20:30,WARP/W,19994,"Wahl Wolfgang, Günter Elisabeth",,IMWM/K,19916,Kraus Pavel,,AS,19930,Baur Patrick,,RMAN,19932,"Stettler Niklaus, Aschwanden Michael, Wenk Rea",,,,,,,,,,TT.12.JJJJ 19:00,TT.12.JJJJ 20:30
+50,Fri,12/11/2015,8:30,-,10:00,GLIW/B,19989,"Mumenthaler Rudolf, Schuldt Karsten",,PRQM,19921,Studer Jürg,,IVM/T,19925,Titschack Ingo,,DYBE,19936,Hauser-Ehninger Ulrich,,,,,,,,,,TT.12.JJJJ 08:30,TT.12.JJJJ 10:00
+50,Fri,12/11/2015,10:30,-,12:00,GLIW/B,19989,"Mumenthaler Rudolf, Schuldt Karsten",,PRQM,19921,Studer Jürg,,IVM/T,19925,Titschack Ingo,,DYBE,19936,Hauser-Ehninger Ulrich,,,,,,,,,,TT.12.JJJJ 10:30,TT.12.JJJJ 12:00
+50,Fri,12/11/2015,13:00,-,14:30,GLIW/E,19989,"Semar Wolfgang, Mumenthaler Rudolf, Schuldt Karsten, von Rütte Hans",,PRQM,19921,Studer Jürg,,KIS/H,19923,Hauser-Ehninger Ulrich,,,,,,,,,,,,,,TT.12.JJJJ 13:00,TT.12.JJJJ 14:30
+50,Fri,12/11/2015,15:00,-,16:30,GLIW/E,19989,"Semar Wolfgang, Mumenthaler Rudolf, Schuldt Karsten, von Rütte Hans",,PRQM,19921,Studer Jürg,,KIS/H,19923,Hauser-Ehninger Ulrich,,,,,,,,,,,,,,TT.12.JJJJ 15:00,TT.12.JJJJ 16:30
+51,Tue,12/15/2015,13:15,-,14:50,,,,,,,,,,,,,,,,,13,,,,,,,,TT.12.JJJJ 13:15,TT.12.JJJJ 14:50
+51,Tue,12/15/2015,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.12.JJJJ 15:15,TT.12.JJJJ 16:50
+51,Tue,12/15/2015,17:00,-,18:30,WOR1,19995,Semar Wolfgang,,IR1,19918,Bekavac Bernard,,MARK,19927,Schär Armando,,PK,20033,"Mumenthaler Rudolf, Schuldt Karsten, Wenk Bruno",,,,,,,,,,TT.12.JJJJ 17:00,TT.12.JJJJ 18:30
+51,Tue,12/15/2015,19:00,-,20:30,WOR1,19995,Semar Wolfgang,,IR1,19918,Bekavac Bernard,,MARK,19927,Schär Armando,,PK,20033,"Mumenthaler Rudolf, Schuldt Karsten, Wenk Bruno",,,,,,,,,,TT.12.JJJJ 19:00,TT.12.JJJJ 20:30
+51,Fri,12/18/2015,8:30,-,10:00,GINF,19990,Francolino Vincenzo,,PRQM,19921,Studer Jürg,,AS,19930,Baur Patrick,,STIM/S,19931,Schade Edzard,,,,,,,,,,TT.12.JJJJ 08:30,TT.12.JJJJ 10:00
+51,Fri,12/18/2015,10:30,-,12:00,GINF,19990,Francolino Vincenzo,,PRQM,19921,Studer Jürg,,AS,19930,Baur Patrick,,STIM/S,19931,Schade Edzard,,,,,,,,,,TT.12.JJJJ 10:30,TT.12.JJJJ 12:00
+51,Fri,12/18/2015,13:00,-,14:30,GLIW/A,19989,von Rütte Hans,,BWGL2,19920,Stocker Pascal,,DILZA,19924,"Stettler Niklaus, Schade Edzard",,BMAN,19933,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.12.JJJJ 13:00,TT.12.JJJJ 14:30
+51,Fri,12/18/2015,15:00,-,16:30,GLIW/A,19989,von Rütte Hans,,BWGL2,19920,Stocker Pascal,,DILZA,19924,"Stettler Niklaus, Schade Edzard",,BMAN,19933,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.12.JJJJ 15:00,TT.12.JJJJ 16:30
+2,Tue,1/5/2016,13:15,-,14:50,,,,,,,,,,,,,,,,,14,,,,,,,,TT.01.JJJJ 13:15,TT.01.JJJJ 14:50
+2,Tue,1/5/2016,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.01.JJJJ 15:15,TT.01.JJJJ 16:50
+2,Tue,1/5/2016,17:00,-,18:30,WOR1,19995,Semar Wolfgang,,IMWM/S,19916,Schade Edzard,,MARK,19927,Schär Armando,,RMAN,19932,"Stettler Niklaus, Aschwanden Michael, Wenk Rea",,,,,,,,,,TT.01.JJJJ 17:00,TT.01.JJJJ 18:30
+2,Tue,1/5/2016,19:00,-,20:30,WOR1,19995,Semar Wolfgang,,IMWM/S,19916,Schade Edzard,,MARK,19927,Schär Armando,,RMAN,19932,"Stettler Niklaus, Aschwanden Michael, Wenk Rea",,,,,,,,,,TT.01.JJJJ 19:00,TT.01.JJJJ 20:30
+2,Fri,1/8/2016,8:30,-,10:00,GINF,19990,Francolino Vincenzo,,PRQM,19921,Studer Jürg,,IVM/S,19925,Schade Edzard,,SEM,20035,Hauser-Ehninger Ulrich,,,,,,,,,,TT.01.JJJJ 08:30,TT.01.JJJJ 10:00
+2,Fri,1/8/2016,10:30,-,12:00,GINF,19990,Francolino Vincenzo,,PRQM,19921,Studer Jürg,,IVM/S,19925,Schade Edzard,,SEM,20035,Hauser-Ehninger Ulrich,,,,,,,,,,TT.01.JJJJ 10:30,TT.01.JJJJ 12:00
+2,Fri,1/8/2016,13:00,-,14:30,WOR1,19995,Semar Wolfgang,,IK,19919,Böller Nadja,,DILZA,19924,"Stettler Niklaus, Schade Edzard",,SEM,20035,Hauser-Ehninger Ulrich,,,,,,,,,,TT.01.JJJJ 13:00,TT.01.JJJJ 14:30
+2,Fri,1/8/2016,15:00,-,16:30,WOR1,19995,Semar Wolfgang,,IK,19919,Böller Nadja,,DILZA,19924,"Stettler Niklaus, Schade Edzard",,SEM,20035,Hauser-Ehninger Ulrich,,,,,,,,,,TT.01.JJJJ 15:00,TT.01.JJJJ 16:30
+3,Tue,1/12/2016,8:15,-,9:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.01.JJJJ 08:15,TT.01.JJJJ 09:50
+3,Tue,1/12/2016,10:15,-,11:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.01.JJJJ 10:15,TT.01.JJJJ 11:50
+3,Tue,1/12/2016,13:15,-,14:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.01.JJJJ 13:15,TT.01.JJJJ 14:50
+3,Tue,1/12/2016,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.01.JJJJ 15:15,TT.01.JJJJ 16:50
+3,Tue,1/12/2016,17:00,-,18:30,,,,,,,,,,,,,,,,,,,,,,,,,TT.01.JJJJ 17:00,TT.01.JJJJ 18:30
+3,Wed,1/13/2016,8:15,-,9:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.01.JJJJ 08:15,TT.01.JJJJ 09:50
+3,Wed,1/13/2016,10:15,-,11:50,GLIW/B,19989,"Mumenthaler Rudolf, Schuldt Karsten",,IMWM/S,19916,Schade Edzard,,,,,,,,,,,,,,,,,,TT.01.JJJJ 10:15,TT.01.JJJJ 11:50
+3,Wed,1/13/2016,13:15,-,14:50,GLIW/B,19989,"Mumenthaler Rudolf, Schuldt Karsten",,IMWM/S,19916,Schade Edzard,,DILZA,19924,"Stettler Niklaus, Schade Edzard",,,,,,,,,,,,,,TT.01.JJJJ 13:15,TT.01.JJJJ 14:50
+3,Wed,1/13/2016,15:15,-,16:50,GLIW/A,19989,von Rütte Hans,,IK,19919,Böller Nadja,,DILZA,19924,"Stettler Niklaus, Schade Edzard",,PK,20033,"Mumenthaler Rudolf, Schuldt Karsten, Wenk Bruno",,,,,,,,,,TT.01.JJJJ 15:15,TT.01.JJJJ 16:50
+3,Wed,1/13/2016,17:00,-,18:30,GLIW/A,19989,von Rütte Hans,,IK,19919,Böller Nadja,,,,,,PK,20033,"Mumenthaler Rudolf, Schuldt Karsten, Wenk Bruno",,,,,,,,,,TT.01.JJJJ 17:00,TT.01.JJJJ 18:30
+3,Thu,1/14/2016,8:15,-,9:50,GLIW/B,19989,"Mumenthaler Rudolf, Schuldt Karsten",,IMWM/S,19916,Schade Edzard,,AS,19930,Baur Patrick,,RMAN,19932,"Stettler Niklaus, Aschwanden Michael, Wenk Rea",,,,,,,,,,TT.01.JJJJ 08:15,TT.01.JJJJ 09:50
+3,Thu,1/14/2016,10:15,-,11:50,GLIW/B,19989,"Mumenthaler Rudolf, Schuldt Karsten",,IMWM/S,19916,Schade Edzard,,AS,19930,Baur Patrick,,RMAN,19932,"Stettler Niklaus, Aschwanden Michael, Wenk Rea",,,,,,,,,,TT.01.JJJJ 10:15,TT.01.JJJJ 11:50
+3,Thu,1/14/2016,13:15,-,14:50,GLIW/I,19989,Semar Wolfgang,,IR1,19918,Bekavac Bernard,,IVM/S,19925,Schade Edzard,,RMAN,19932,"Stettler Niklaus, Aschwanden Michael, Wenk Rea",,,,,,,,,,TT.01.JJJJ 13:15,TT.01.JJJJ 14:50
+3,Thu,1/14/2016,15:15,-,16:50,GLIW/I,19989,Semar Wolfgang,,IR1,19918,Bekavac Bernard,,IVM/S,19925,Schade Edzard,,RMAN,19932,"Stettler Niklaus, Aschwanden Michael, Wenk Rea",,,,,,,,,,TT.01.JJJJ 15:15,TT.01.JJJJ 16:50
+3,Thu,1/14/2016,17:00,-,18:30,,,,,,,,,,,,,,,,,,,,,,,,,TT.01.JJJJ 17:00,TT.01.JJJJ 18:30
+3,Fri,1/15/2016,8:15,-,9:50,GINF,19990,Francolino Vincenzo,,IK,19919,Böller Nadja,,IVM/T,19925,Titschack Ingo,,BMAN,19933,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.01.JJJJ 08:15,TT.01.JJJJ 09:50
+3,Fri,1/15/2016,10:15,-,11:50,GINF,19990,Francolino Vincenzo,,IK,19919,Böller Nadja,,IVM/T,19925,Titschack Ingo,,BMAN,19933,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.01.JJJJ 10:15,TT.01.JJJJ 11:50
+3,Fri,1/15/2016,13:15,-,14:50,WOR1,19995,Semar Wolfgang,,IK,19919,Böller Nadja,,KIS/H,19923,Hauser-Ehninger Ulrich,,STIM/S,19931,Schade Edzard,,,,,,,,,,TT.01.JJJJ 13:15,TT.01.JJJJ 14:50
+3,Fri,1/15/2016,15:15,-,16:50,WOR1,19995,Semar Wolfgang,,IK,19919,Böller Nadja,,KIS/H,19923,Hauser-Ehninger Ulrich,,STIM/S,19931,Schade Edzard,,,,,,,,,,TT.01.JJJJ 15:15,TT.01.JJJJ 16:50
+3,Sat,1/16/2016,8:15,-,9:50,GINF,19990,Francolino Vincenzo,,IK,19919,Böller Nadja,,,,,,STIM/S,19931,Schade Edzard,,,,,,,,,,TT.01.JJJJ 08:15,TT.01.JJJJ 09:50
+3,Sat,1/16/2016,10:15,-,11:50,GINF,19990,Francolino Vincenzo,,IK,19919,Böller Nadja,,,,,,STIM/S,19931,Schade Edzard,,,,,,,,,,TT.01.JJJJ 10:15,TT.01.JJJJ 11:50
+3,Sat,1/16/2016,12:15,-,13:50,,,,,IK,19919,Böller Nadja,,,,,,STIM/S,19931,Schade Edzard,,,,,,,,,,TT.01.JJJJ 12:15,TT.01.JJJJ 13:50
+ID,Anlassbezeichnung,,,,,,,,,,Dozierende,,,,,,,ECTS,DL,AnlassId,,,,,,,,,,,
+I1tz,ZG IW15_tz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EINF,Einführung,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,
+GINF,Grundlagen der Informatik,,,,,,,,,,Francolino Vincenzo,,,,,,,4,22,19990,,,,,,,,,,,
+GLIW/A,Grundlagen der Informationswissenschaft - Teil Archiv,,,,,,,,,,von Rütte Hans,,,,,,,2,13,19989,,,,,,,,,,,
+GLIW/B,Grundlagen der Informationswissenschaft - Teil Bibliothek,,,,,,,,,,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,2,12,19989,,,,,,,,,,,
+GLIW/E,Grundlagen der Informationswissenschaft / Exkursion,,,,,,,,,,"Semar Wolfgang, Mumenthaler Rudolf, Schuldt Karsten, von Rütte Hans",,,,,,,2,5,19989,,,,,,,,,,,
+GLIW/I,Grundlagen der Informationswissenschaft - Teil Information,,,,,,,,,,Semar Wolfgang,,,,,,,2,12,19989,,,,,,,,,,,
+WARP/C,Wissenschaftliche Arbeits- und Präsentationsrechnik,,,,,,,,,,Capatt Iris,,,,,,,4,8,19994,,,,,,,,,,,
+WARP/S,Wissenschaftliche Arbeits- und Präsentationsrechnik,,,,,,,,,,Seifert Bettina,,,,,,,4,2,19994,,,,,,,,,,,
+WARP/V,Wissenschaftliche Arbeits- und Präsentationsrechnik,,,,,,,,,,Vardanyan Ekaterina,,,,,,,,6,19994,,,,,,,,,,,
+WARP/W,Wissenschaftliche Arbeits- und Präsentationsrechnik,,,,,,,,,,"Wahl Wolfgang, Günter Elisabeth",,,,,,,,6,19994,,,,,,,,,,,
+WOR1,Wissenschaftsorganisation und -repräsentation 1,,,,,,,,,,Semar Wolfgang,,,,,,,4,22,19995,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+I3tz,ZG IW14_tz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BWGL2,Betriebswirtschaftliche Grundlagen 2,,,,,,,,,,Stocker Pascal,,,,,,,3,12,19920,,,,,,,,,,,
+IK,Förderung von Informationskompetenz,,,,,,,,,,Böller Nadja,,,,,,,4,19,19919,,,,,,,,,,,
+IMWM/K,Informations- und Wissensmanagement,,,,,,,,,,Kraus Pavel,,,,,,,,4,19916,,,,,,,,,,,
+IMWM/S,Informations- und Wissensmanagement,,,,,,,,,,Schade Edzard,,,,,,,4,16,19916,,,,,,,,,,,
+IR1,Information Retrieval 1,,,,,,,,,,Bekavac Bernard,,,,,,,3,14,19918,,,,,,,,,,,
+PROG/O,Programmierlogiken,,,,,,,,,,Odoni Fabian,,,,,,,2,10,19917,,,,,,,,,,,
+PROG/W,Programmierlogiken,,,,,,,,,,Weichselbraun Albert,,,,,,,2,11,19917,,,,,,,,,,,
+PRQM,Projekt- und Qualitätsmanagement,,,,,,,,,,Studer Jürg,,,,,,,4,20,19921,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+I5tz,ZG IW13_tz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AS,Angewandte Statistik,,,,,,,,,,Baur Patrick,,,,,,,4,20,19930,,,,,,,,,,,
+DILZA,Digitale Langzeitarchivierung,,,,,,,,,,"Stettler Niklaus, Schade Edzard",,,,,,,4,20,19924,,,,,,,,,,,
+IVM/S,Informationsvermittlung und -märkte,,,,,,,,,,Schade Edzard,,,,,,,3,10,19925,,,,,,,,,,,
+IVM/T,Informationsvermittlung und -märkte,,,,,,,,,,Titschack Ingo,,,,,,,3,10,19925,,,,,,,,,,,
+KIS/H,Konzeption von Informationssystemen,,,,,,,,,,Hauser-Ehninger Ulrich,,,,,,,2,15,19923,,,,,,,,,,,
+KIS/W,Konzeption von Informationssystemen,,,,,,,,,,Weinhold Thomas,,,,,,,2,5,19923,,,,,,,,,,,
+MARK,"Marketing/PR, Dienstleistungsmarketing",,,,,,,,,,Schär Armando,,,,,,,4,22,19927,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+I7tz,ZG IW12_tz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BMAN,Bibliotheksmanagement,,,,,,,,,,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,4,20,19933,,,,,,,,,,,
+DYBE,Dynamische Benutzeroberflächen,,,,,,,,,,Hauser-Ehninger Ulrich,,,,,,,4,2,19936,,,,,,,,,,,
+PK,Projektkurs Zürich HS15,,,,,,,,,,"Mumenthaler Rudolf, Schuldt Karsten, Wenk Bruno",,,,,,,6,14,20033,,,,,,,,,,,
+RMAN,Records Management,,,,,,,,,,"Stettler Niklaus, Aschwanden Michael, Wenk Rea",,,,,,,4,22,19932,,,,,,,,,,,
+SEM,Seminar Zürich HS15,,,,,,,,,,Hauser-Ehninger Ulrich,,,,,,,4,8,20035,,,,,,,,,,,
+STIM/K,Strategisches Informationsmanagement,,,,,,,,,,Kraus Pavel,,,,,,,,6,19931,,,,,,,,,,,
+STIM/S,Strategisches Informationsmanagement,,,,,,,,,,Schade Edzard,,,,,,,4,15,19931,,,,,,,,,,,
+WTA2,Web-Technologien/Anwendungen 2,,,,,,,,,,Hauser-Ehninger Ulrich,,,,,,,4,2,19934,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,Fach1,SOLL,IST,Fach3,SOLL,IST,Fach5,SOLL,IST,Fach7,SOLL,IST,,,,,,,,,,,,,,
+,,,,,,EINF,4,4,BWGL2,12,12,AS,20,20,BMAN,20,20,,,,,,,,,,,,,,
+,,,,,,Fach1,,,Fach3,,,Fach5,,,Fach7,,,,,,,,,,,,,,,,
+,,,,,,GINF,22,22,IK,19,21,DILZA,20,20,DYBE,2,2,,,,,,,,,,,,,,
+,,,,,,Fach1,,,Fach3,,,Fach5,,,Fach7,,,,,,,,,,,,,,,,
+,,,,,,GLIW/A,13,13,IMWM/K,4,4,IVM/S,10,10,PK,14,14,,,,,,,,,,,,,,
+,,,,,,Fach1,,,Fach3,,,Fach5,,,Fach7,,,,,,,,,,,,,,,,
+,,,,,,GLIW/B,12,12,IMWM/S,16,16,IVM/T,10,10,RMAN,22,22,,,,,,,,,,,,,,
+,,,,,,Fach1,,,Fach3,,,Fach5,,,Fach7,,,,,,,,,,,,,,,,
+,,,,,,GLIW/E,5,5,IR1,14,14,KIS/H,15,16,SEM,8,8,,,,,,,,,,,,,,
+,,,,,,Fach1,,,Fach3,,,Fach5,,,Fach7,,,,,,,,,,,,,,,,
+,,,,,,GLIW/I,12,12,PROG/O,10,10,KIS/W,5,5,STIM/K,6,6,,,,,,,,,,,,,,
+,,,,,,Fach1,,,Fach3,,,Fach5,,,Fach7,,,,,,,,,,,,,,,,
+,,,,,,WARP/C,8,8,PROG/W,11,12,MARK,22,22,STIM/S,15,15,,,,,,,,,,,,,,
+,,,,,,Fach1,,,Fach3,,,,,,Fach7,,,,,,,,,,,,,,,,
+,,,,,,WARP/S,2,2,PRQM,20,20,,,,WTA2,2,2,,,,,,,,,,,,,,
+,,,,,,Fach1,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,WARP/V,6,6,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,Fach1,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,WARP/W,6,6,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,Fach1,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,WOR1,22,22,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,summe,112,112,summe,106,109,summe,102,103,summe,89,89,,,,,,,,,,,,,,
+,,,,,,max,114,,max,114,,max,114,,max,114,,,,,,,,,,,,,,,
+,,,,,,Diff,2,,Diff,8,,Diff,12,,Diff,25,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Basisjahr,,2015,2015,,,IW15_tz,,,IW14_tz,,,IW13_tz,,,IW12_tz,,,,,,,,,,,,,,,,
+HS oder FS?,,HS,,,,1,,,3,,,5,,,7,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+mailto:thomas.borer@htwchur.ch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
