@@ -8,6 +8,9 @@ Usage
 
  1. Export the time sheet to CSV
  2. Export the ical file the given lecturer
+
     ```bash
-    ./time-sheet-parser.py --lecturer "Weichselbraun Albert" timetable.csv
+    ./time-sheet-parser.py --lecturer "Weichselbraun Albert" timetable.csv > timetable.ics
     ```
+
+ 3. Import the .ics file into Outlook or Thunderbird (Thunderbird: activate the **Today Pane** and drag & drop the file into the pane).
