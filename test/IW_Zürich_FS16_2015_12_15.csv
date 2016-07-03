@@ -1,0 +1,249 @@
+,,Datum,Von,,Bis,k1,i1,d1,r1,k2,i2,d2,r2,k3,i3,d3,r3,k4,i4,d4,r4,,,,,,,,,,
+Hochschule für Technik und Wirtschaft (HTW) Chur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FS 2016 / Stundenplan IW Teilzeit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ver. 0.0,,12/18/2015,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,I2tz = IW15_tz,,,,I4tz = IW14_tz,,,,I6tz = IW13_tz,,,,I8tz = IW12_tz,,,,,,,,,,,,Anfang,Ende
+KW,WT,Datum,,,Zeit,Fach2,AnlassID,Dozierende,Raum,Fach4,AnlassID,Dozierende,Raum,Fach6,AnlassID,Dozierende,Raum,Fach8,AnlassID,Dozierende,Raum,,,Kollisionen = 1,,,,,,,
+7,Wed,2/17/2016,10:15,-,11:50,BWGL1,21095,Wellinger Dario,,,,,,,,,,,,,,,,,,,,,,TT.02.JJJJ 10:15,TT.02.JJJJ 11:50
+7,Wed,2/17/2016,13:15,-,14:50,BWGL1,21095,Wellinger Dario,,SOBER,21101,"Schuldt Karsten, Mumenthaler Rudolf",,,,,,,,,,,,,,,,,,TT.02.JJJJ 13:15,TT.02.JJJJ 14:50
+7,Wed,2/17/2016,15:15,-,16:50,WOR2,21093,Semar Wolfgang,,SOBER,21101,"Schuldt Karsten, Mumenthaler Rudolf",,,,,,,,,,,,,,,,,,TT.02.JJJJ 15:15,TT.02.JJJJ 16:50
+7,Wed,2/17/2016,17:00,-,18:30,WOR2,21093,Semar Wolfgang,,,,,,,,,,,,,,,,,,,,,,TT.02.JJJJ 17:00,TT.02.JJJJ 18:30
+7,Thu,2/18/2016,8:15,-,9:50,MIGE,21096,Schade Edzard,,ARIS/W,21098,"Wenk Bruno, Weinhold Thomas",,,,,,ATBW,21106,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.02.JJJJ 08:15,TT.02.JJJJ 09:50
+7,Thu,2/18/2016,10:15,-,11:50,MIGE,21096,Schade Edzard,,ARIS/W,21098,"Wenk Bruno, Weinhold Thomas",,,,,,ATBW,21106,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.02.JJJJ 10:15,TT.02.JJJJ 11:50
+7,Thu,2/18/2016,13:15,-,14:50,IMWM,21091,"Schade Edzard, Kraus Pavel",,DPMS,21099,"Wenk Bruno, Pfeiffer Michel",,EBUS/Z,21108,Zimmermann Hans-Dieter,,EBUS/Z,21108,Zimmermann Hans-Dieter,,,,,,1,,,,TT.02.JJJJ 13:15,TT.02.JJJJ 14:50
+7,Thu,2/18/2016,15:15,-,16:50,IMWM,21091,"Schade Edzard, Kraus Pavel",,DPMS,21099,"Wenk Bruno, Pfeiffer Michel",,EBUS/Z,21108,Zimmermann Hans-Dieter,,EBUS/Z,21108,Zimmermann Hans-Dieter,,,,,,1,,,,TT.02.JJJJ 15:15,TT.02.JJJJ 16:50
+7,Thu,2/18/2016,17:00,-,18:30,,,,,,,,,,,,,,,,,,,,,,,,,TT.02.JJJJ 17:00,TT.02.JJJJ 18:30
+7,Fri,2/19/2016,8:15,-,9:50,BWGL1,21095,Wellinger Dario,,IR2,21100,Buchkremer Rüdiger,,WTA1,21110,Vollenweider Martin,,,,,,,,,,,,,,TT.02.JJJJ 08:15,TT.02.JJJJ 09:50
+7,Fri,2/19/2016,10:15,-,11:50,BWGL1,21095,Wellinger Dario,,IR2,21100,Buchkremer Rüdiger,,WTA1,21110,Vollenweider Martin,,,,,,,,,,,,,,TT.02.JJJJ 10:15,TT.02.JJJJ 11:50
+7,Fri,2/19/2016,13:15,-,14:50,WOR2,21093,Semar Wolfgang,,IR2,21100,Buchkremer Rüdiger,,WTA1,21110,Vollenweider Martin,,,,,,,,,,,,,,TT.02.JJJJ 13:15,TT.02.JJJJ 14:50
+7,Fri,2/19/2016,15:15,-,16:50,WOR2,21093,Semar Wolfgang,,IR2,21100,Buchkremer Rüdiger,,WTA1,21110,Vollenweider Martin,,,,,,,,,,,,,,TT.02.JJJJ 15:15,TT.02.JJJJ 16:50
+7,Sat,2/20/2016,8:15,-,9:50,IRGR,21094,Bekavac Bernard,,,,,,BMAN,21154,Mumenthaler Rudolf,,STAN,21109,Vardanyan Ekaterina,,,,,,,,,,TT.02.JJJJ 08:15,TT.02.JJJJ 09:50
+7,Sat,2/20/2016,10:15,-,11:50,IRGR,21094,Bekavac Bernard,,,,,,BMAN,21154,Mumenthaler Rudolf,,STAN,21109,Vardanyan Ekaterina,,,,,,,,,,TT.02.JJJJ 10:15,TT.02.JJJJ 11:50
+7,Sat,2/20/2016,12:15,-,13:50,IRGR,21094,Bekavac Bernard,,,,,,BMAN,21154,Mumenthaler Rudolf,,STAN,21109,Vardanyan Ekaterina,,,,,,,,,,TT.02.JJJJ 12:15,TT.02.JJJJ 13:50
+8,Tue,2/23/2016,13:15,-,14:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.02.JJJJ 13:15,TT.02.JJJJ 14:50
+8,Tue,2/23/2016,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.02.JJJJ 15:15,TT.02.JJJJ 16:50
+8,Tue,2/23/2016,17:00,-,18:30,WOR2,21093,Semar Wolfgang,,IGEP,21097,Zimmermann Hans-Dieter,,SEM,21105,Barkow Ingo,,ATBW,21106,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.02.JJJJ 17:00,TT.02.JJJJ 18:30
+8,Tue,2/23/2016,19:00,-,20:30,WOR2,21093,Semar Wolfgang,,IGEP,21097,Zimmermann Hans-Dieter,,SEM,21105,Barkow Ingo,,ATBW,21106,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.02.JJJJ 19:00,TT.02.JJJJ 20:30
+8,Fri,2/26/2016,8:30,-,10:00,MIGE,21096,Schade Edzard,,SOBER,21101,"Schuldt Karsten, Mumenthaler Rudolf",,WTA1,21110,Vollenweider Martin,,,,,,,,,,,,,,TT.02.JJJJ 08:30,TT.02.JJJJ 10:00
+8,Fri,2/26/2016,10:30,-,12:00,MIGE,21096,Schade Edzard,,SOBER,21101,"Schuldt Karsten, Mumenthaler Rudolf",,WTA1,21110,Vollenweider Martin,,,,,,,,,,,,,,TT.02.JJJJ 10:30,TT.02.JJJJ 12:00
+8,Fri,2/26/2016,13:00,-,14:30,BWGL1,21095,Wellinger Dario,,ARIS/W,21098,"Wenk Bruno, Weinhold Thomas",,EBUS/Z,21108,Zimmermann Hans-Dieter,,EBUS/Z,21108,Zimmermann Hans-Dieter,,,,,,1,,,,TT.02.JJJJ 13:00,TT.02.JJJJ 14:30
+8,Fri,2/26/2016,15:00,-,16:30,BWGL1,21095,Wellinger Dario,,ARIS/W,21098,"Wenk Bruno, Weinhold Thomas",,EBUS/Z,21108,Zimmermann Hans-Dieter,,EBUS/Z,21108,Zimmermann Hans-Dieter,,,,,,1,,,,TT.02.JJJJ 15:00,TT.02.JJJJ 16:30
+9,Tue,3/1/2016,13:15,-,14:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.03.JJJJ 13:15,TT.03.JJJJ 14:50
+9,Tue,3/1/2016,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.03.JJJJ 15:15,TT.03.JJJJ 16:50
+9,Tue,3/1/2016,17:00,-,18:30,IMWM,21091,"Schade Edzard, Kraus Pavel",,DPMS,21099,"Wenk Bruno, Pfeiffer Michel",,BMAN,21154,Mumenthaler Rudolf,,,,,,,,,,,,,,TT.03.JJJJ 17:00,TT.03.JJJJ 18:30
+9,Tue,3/1/2016,19:00,-,20:30,IMWM,21091,"Schade Edzard, Kraus Pavel",,DPMS,21099,"Wenk Bruno, Pfeiffer Michel",,BMAN,21154,Mumenthaler Rudolf,,,,,,,,,,,,,,TT.03.JJJJ 19:00,TT.03.JJJJ 20:30
+9,Fri,3/4/2016,8:30,-,10:00,MIGE,21096,Schade Edzard,,RECHT,21102,"Köhler Daniel, Niggemeier Fabian",,PK,21104,"Schär Armando, Aufleger Stefanie",,ATBW,21106,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.03.JJJJ 08:30,TT.03.JJJJ 10:00
+9,Fri,3/4/2016,10:30,-,12:00,MIGE,21096,Schade Edzard,,RECHT,21102,"Köhler Daniel, Niggemeier Fabian",,PK,21104,"Schär Armando, Aufleger Stefanie",,ATBW,21106,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.03.JJJJ 10:30,TT.03.JJJJ 12:00
+9,Fri,3/4/2016,13:00,-,14:30,IRGR,21094,Bekavac Bernard,,RECHT,21102,"Köhler Daniel, Niggemeier Fabian",,WTA1,21110,Vollenweider Martin,,ATBW,21106,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.03.JJJJ 13:00,TT.03.JJJJ 14:30
+9,Fri,3/4/2016,15:00,-,16:30,IRGR,21094,Bekavac Bernard,,RECHT,21102,"Köhler Daniel, Niggemeier Fabian",,WTA1,21110,Vollenweider Martin,,ATBW,21106,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.03.JJJJ 15:00,TT.03.JJJJ 16:30
+10,Tue,3/8/2016,13:15,-,14:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.03.JJJJ 13:15,TT.03.JJJJ 14:50
+10,Tue,3/8/2016,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.03.JJJJ 15:15,TT.03.JJJJ 16:50
+10,Tue,3/8/2016,17:00,-,18:30,WOR2,21093,Semar Wolfgang,,ARIS/W,21098,"Wenk Bruno, Weinhold Thomas",,SEM,21105,Barkow Ingo,,ATBW,21106,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.03.JJJJ 17:00,TT.03.JJJJ 18:30
+10,Tue,3/8/2016,19:00,-,20:30,WOR2,21093,Semar Wolfgang,,ARIS/W,21098,"Wenk Bruno, Weinhold Thomas",,SEM,21105,Barkow Ingo,,ATBW,21106,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.03.JJJJ 19:00,TT.03.JJJJ 20:30
+10,Fri,3/11/2016,8:30,-,10:00,BWGL1,21095,Wellinger Dario,,ESAS,21103,Dahinden Urs,,EBUS/T,21108,Tamm Gerrit,,EBUS/T,21108,Tamm Gerrit,,,,,,1,,,,TT.03.JJJJ 08:30,TT.03.JJJJ 10:00
+10,Fri,3/11/2016,10:30,-,12:00,BWGL1,21095,Wellinger Dario,,ESAS,21103,Dahinden Urs,,EBUS/T,21108,Tamm Gerrit,,EBUS/T,21108,Tamm Gerrit,,,,,,1,,,,TT.03.JJJJ 10:30,TT.03.JJJJ 12:00
+10,Fri,3/11/2016,13:00,-,14:30,IRGR,21094,Bekavac Bernard,,IGEP,21097,Zimmermann Hans-Dieter,,WTA1,21110,Vollenweider Martin,,STAN/S,21109,Sutter Monika,,,,,,,,,,TT.03.JJJJ 13:00,TT.03.JJJJ 14:30
+10,Fri,3/11/2016,15:00,-,16:30,IRGR,21094,Bekavac Bernard,,IGEP,21097,Zimmermann Hans-Dieter,,WTA1,21110,Vollenweider Martin,,STAN/S,21109,Sutter Monika,,,,,,,,,,TT.03.JJJJ 15:00,TT.03.JJJJ 16:30
+11,Tue,3/15/2016,13:15,-,14:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.03.JJJJ 13:15,TT.03.JJJJ 14:50
+11,Tue,3/15/2016,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.03.JJJJ 15:15,TT.03.JJJJ 16:50
+11,Tue,3/15/2016,17:00,-,18:30,IMWM,21091,"Schade Edzard, Kraus Pavel",,DPMS,21099,"Wenk Bruno, Pfeiffer Michel",,EBUS/Z,21108,Zimmermann Hans-Dieter,,EBUS/Z,21108,Zimmermann Hans-Dieter,,,,,,1,,,,TT.03.JJJJ 17:00,TT.03.JJJJ 18:30
+11,Tue,3/15/2016,19:00,-,20:30,IMWM,21091,"Schade Edzard, Kraus Pavel",,DPMS,21099,"Wenk Bruno, Pfeiffer Michel",,EBUS/Z,21108,Zimmermann Hans-Dieter,,EBUS/Z,21108,Zimmermann Hans-Dieter,,,,,,1,,,,TT.03.JJJJ 19:00,TT.03.JJJJ 20:30
+11,Fri,3/18/2016,8:30,-,10:00,MIGE,21096,Schade Edzard,,ESAS,21103,Dahinden Urs,,PRAC/R,21107,"Rauh Felix, Schürpf Markus, Niederhäuser Yves, Müller Rudolf, David Landolf",,PRAC/R,21107,"Rauh Felix, Schürpf Markus, Niederhäuser Yves, Müller Rudolf, David Landolf",,,,,,1,,,,TT.03.JJJJ 08:30,TT.03.JJJJ 10:00
+11,Fri,3/18/2016,10:30,-,12:00,MIGE,21096,Schade Edzard,,ESAS,21103,Dahinden Urs,,PRAC/R,21107,"Rauh Felix, Schürpf Markus, Niederhäuser Yves, Müller Rudolf, David Landolf",,PRAC/R,21107,"Rauh Felix, Schürpf Markus, Niederhäuser Yves, Müller Rudolf, David Landolf",,,,,,1,,,,TT.03.JJJJ 10:30,TT.03.JJJJ 12:00
+11,Fri,3/18/2016,13:00,-,14:30,IRGR,21094,Bekavac Bernard,,IGEP,21097,Zimmermann Hans-Dieter,,PK,21104,"Schär Armando, Aufleger Stefanie",,STAN/S,21109,Sutter Monika,,,,,,,,,,TT.03.JJJJ 13:00,TT.03.JJJJ 14:30
+11,Fri,3/18/2016,15:00,-,16:30,IRGR,21094,Bekavac Bernard,,IGEP,21097,Zimmermann Hans-Dieter,,PK,21104,"Schär Armando, Aufleger Stefanie",,STAN/S,21109,Sutter Monika,,,,,,,,,,TT.03.JJJJ 15:00,TT.03.JJJJ 16:30
+12,Tue,3/22/2016,13:15,-,14:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.03.JJJJ 13:15,TT.03.JJJJ 14:50
+12,Tue,3/22/2016,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.03.JJJJ 15:15,TT.03.JJJJ 16:50
+12,Tue,3/22/2016,17:00,-,18:30,WOR2,21093,Semar Wolfgang,,SOBER,21101,"Schuldt Karsten, Mumenthaler Rudolf",,BMAN,21154,Mumenthaler Rudolf,,,,,,,,,,,,,,TT.03.JJJJ 17:00,TT.03.JJJJ 18:30
+12,Tue,3/22/2016,19:00,-,20:30,WOR2,21093,Semar Wolfgang,,SOBER,21101,"Schuldt Karsten, Mumenthaler Rudolf",,BMAN,21154,Mumenthaler Rudolf,,,,,,,,,,,,,,TT.03.JJJJ 19:00,TT.03.JJJJ 20:30
+12,Fri,3/25/2016,8:30,-,10:00,,,,,,,,,,,,,,,,,,,,,,,,,TT.03.JJJJ 08:30,TT.03.JJJJ 10:00
+12,Fri,3/25/2016,10:30,-,12:00,,,,,,,,,,,,,,,,,,,,,,,,,TT.03.JJJJ 10:30,TT.03.JJJJ 12:00
+12,Fri,3/25/2016,13:00,-,14:30,,,,,,,,,,,,,,,,,,,,,,,,,TT.03.JJJJ 13:00,TT.03.JJJJ 14:30
+12,Fri,3/25/2016,15:00,-,16:30,,,,,,,,,,,,,,,,,,,,,,,,,TT.03.JJJJ 15:00,TT.03.JJJJ 16:30
+13,Tue,3/29/2016,13:15,-,14:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.03.JJJJ 13:15,TT.03.JJJJ 14:50
+13,Tue,3/29/2016,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.03.JJJJ 15:15,TT.03.JJJJ 16:50
+13,Tue,3/29/2016,17:00,-,18:30,,,,,,,,,,,,,,,,,,,,,,,,,TT.03.JJJJ 17:00,TT.03.JJJJ 18:30
+13,Tue,3/29/2016,19:00,-,20:30,,,,,,,,,,,,,,,,,,,,,,,,,TT.03.JJJJ 19:00,TT.03.JJJJ 20:30
+13,Fri,4/1/2016,8:30,-,10:00,IMWM,21091,"Schade Edzard, Kraus Pavel",,ARIS/W,21098,"Wenk Bruno, Weinhold Thomas",,EBUS/T,21108,Tamm Gerrit,,EBUS/T,21108,Tamm Gerrit,,,,,,1,,,,TT.04.JJJJ 08:30,TT.04.JJJJ 10:00
+13,Fri,4/1/2016,10:30,-,12:00,IMWM,21091,"Schade Edzard, Kraus Pavel",,ARIS/W,21098,"Wenk Bruno, Weinhold Thomas",,EBUS/T,21108,Tamm Gerrit,,EBUS/T,21108,Tamm Gerrit,,,,,,1,,,,TT.04.JJJJ 10:30,TT.04.JJJJ 12:00
+13,Fri,4/1/2016,13:00,-,14:30,MIGE,21096,Schade Edzard,,ESAS,21103,Dahinden Urs,,WTA1,21110,Vollenweider Martin,,STAN/S,21109,Sutter Monika,,,,,,,,,,TT.04.JJJJ 13:00,TT.04.JJJJ 14:30
+13,Fri,4/1/2016,15:00,-,16:30,MIGE,21096,Schade Edzard,,ESAS,21103,Dahinden Urs,,WTA1,21110,Vollenweider Martin,,STAN/S,21109,Sutter Monika,,,,,,,,,,TT.04.JJJJ 15:00,TT.04.JJJJ 16:30
+14,Tue,4/5/2016,13:15,-,14:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.04.JJJJ 13:15,TT.04.JJJJ 14:50
+14,Tue,4/5/2016,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.04.JJJJ 15:15,TT.04.JJJJ 16:50
+14,Tue,4/5/2016,17:00,-,18:30,IMWM,21091,"Schade Edzard, Kraus Pavel",,RECHT,21102,"Köhler Daniel, Niggemeier Fabian",,BMAN,21154,Mumenthaler Rudolf,,STAN,21109,Vardanyan Ekaterina,,,,,,,,,,TT.04.JJJJ 17:00,TT.04.JJJJ 18:30
+14,Tue,4/5/2016,19:00,-,20:30,IMWM,21091,"Schade Edzard, Kraus Pavel",,RECHT,21102,"Köhler Daniel, Niggemeier Fabian",,BMAN,21154,Mumenthaler Rudolf,,STAN,21109,Vardanyan Ekaterina,,,,,,,,,,TT.04.JJJJ 19:00,TT.04.JJJJ 20:30
+14,Fri,4/8/2016,8:30,-,10:00,BWGL1,21095,Wellinger Dario,,IR2,21100,Buchkremer Rüdiger,,PRAC/R,21107,"Rauh Felix, Schürpf Markus, Niederhäuser Yves, Müller Rudolf, David Landolf",,PRAC/R,21107,"Rauh Felix, Schürpf Markus, Niederhäuser Yves, Müller Rudolf, David Landolf",,,,,,1,,,,TT.04.JJJJ 08:30,TT.04.JJJJ 10:00
+14,Fri,4/8/2016,10:30,-,12:00,BWGL1,21095,Wellinger Dario,,IR2,21100,Buchkremer Rüdiger,,PRAC/R,21107,"Rauh Felix, Schürpf Markus, Niederhäuser Yves, Müller Rudolf, David Landolf",,PRAC/R,21107,"Rauh Felix, Schürpf Markus, Niederhäuser Yves, Müller Rudolf, David Landolf",,,,,,1,,,,TT.04.JJJJ 10:30,TT.04.JJJJ 12:00
+14,Fri,4/8/2016,13:00,-,14:30,IRGR,21094,Bekavac Bernard,,IR2,21100,Buchkremer Rüdiger,,PRAC/R,21107,"Rauh Felix, Schürpf Markus, Niederhäuser Yves, Müller Rudolf, David Landolf",,PRAC/R,21107,"Rauh Felix, Schürpf Markus, Niederhäuser Yves, Müller Rudolf, David Landolf",,,,,,1,,,,TT.04.JJJJ 13:00,TT.04.JJJJ 14:30
+14,Fri,4/8/2016,15:00,-,16:30,IRGR,21094,Bekavac Bernard,,IR2,21100,Buchkremer Rüdiger,,PRAC/R,21107,"Rauh Felix, Schürpf Markus, Niederhäuser Yves, Müller Rudolf, David Landolf",,PRAC/R,21107,"Rauh Felix, Schürpf Markus, Niederhäuser Yves, Müller Rudolf, David Landolf",,,,,,1,,,,TT.04.JJJJ 15:00,TT.04.JJJJ 16:30
+15,Tue,4/12/2016,13:15,-,14:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.04.JJJJ 13:15,TT.04.JJJJ 14:50
+15,Tue,4/12/2016,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.04.JJJJ 15:15,TT.04.JJJJ 16:50
+15,Tue,4/12/2016,17:00,-,18:30,WOR2,21093,Semar Wolfgang,,IGEP,21097,Zimmermann Hans-Dieter,,SEM,21105,Barkow Ingo,,ATBW,21106,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.04.JJJJ 17:00,TT.04.JJJJ 18:30
+15,Tue,4/12/2016,19:00,-,20:30,WOR2,21093,Semar Wolfgang,,IGEP,21097,Zimmermann Hans-Dieter,,SEM,21105,Barkow Ingo,,ATBW,21106,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.04.JJJJ 19:00,TT.04.JJJJ 20:30
+15,Fri,4/15/2016,8:30,-,10:00,DBMS,21092,Weichselbraun Albert,,ARIS/W,21098,"Wenk Bruno, Weinhold Thomas",,PRAC/R,21107,"Rauh Felix, Schürpf Markus, Niederhäuser Yves, Müller Rudolf, David Landolf",,PRAC/R,21107,"Rauh Felix, Schürpf Markus, Niederhäuser Yves, Müller Rudolf, David Landolf",,,,,,1,,,,TT.04.JJJJ 08:30,TT.04.JJJJ 10:00
+15,Fri,4/15/2016,10:30,-,12:00,DBMS,21092,Weichselbraun Albert,,ARIS/W,21098,"Wenk Bruno, Weinhold Thomas",,PRAC/R,21107,"Rauh Felix, Schürpf Markus, Niederhäuser Yves, Müller Rudolf, David Landolf",,PRAC/R,21107,"Rauh Felix, Schürpf Markus, Niederhäuser Yves, Müller Rudolf, David Landolf",,,,,,1,,,,TT.04.JJJJ 10:30,TT.04.JJJJ 12:00
+15,Fri,4/15/2016,13:00,-,14:30,IRGR,21094,Bekavac Bernard,,ESAS,21103,Dahinden Urs,,PK,21104,"Schär Armando, Aufleger Stefanie",,STAN/S,21109,Sutter Monika,,,,,,,,,,TT.04.JJJJ 13:00,TT.04.JJJJ 14:30
+15,Fri,4/15/2016,15:00,-,16:30,IRGR,21094,Bekavac Bernard,,ESAS,21103,Dahinden Urs,,PK,21104,"Schär Armando, Aufleger Stefanie",,STAN/S,21109,Sutter Monika,,,,,,,,,,TT.04.JJJJ 15:00,TT.04.JJJJ 16:30
+16,Tue,4/19/2016,13:15,-,14:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.04.JJJJ 13:15,TT.04.JJJJ 14:50
+16,Tue,4/19/2016,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.04.JJJJ 15:15,TT.04.JJJJ 16:50
+16,Tue,4/19/2016,17:00,-,18:30,IMWM,21091,"Schade Edzard, Kraus Pavel",,DPMS,21099,"Wenk Bruno, Pfeiffer Michel",,,,,,ATBW,21106,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.04.JJJJ 17:00,TT.04.JJJJ 18:30
+16,Tue,4/19/2016,19:00,-,20:30,IMWM,21091,"Schade Edzard, Kraus Pavel",,DPMS,21099,"Wenk Bruno, Pfeiffer Michel",,,,,,ATBW,21106,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.04.JJJJ 19:00,TT.04.JJJJ 20:30
+16,Fri,4/22/2016,8:30,-,10:00,DBMS,21092,Weichselbraun Albert,,SOBER,21101,"Schuldt Karsten, Mumenthaler Rudolf",,EBUS/T,21108,Tamm Gerrit,,EBUS/T,21108,Tamm Gerrit,,,,,,1,,,,TT.04.JJJJ 08:30,TT.04.JJJJ 10:00
+16,Fri,4/22/2016,10:30,-,12:00,DBMS,21092,Weichselbraun Albert,,SOBER,21101,"Schuldt Karsten, Mumenthaler Rudolf",,EBUS/T,21108,Tamm Gerrit,,EBUS/T,21108,Tamm Gerrit,,,,,,1,,,,TT.04.JJJJ 10:30,TT.04.JJJJ 12:00
+16,Fri,4/22/2016,13:00,-,14:30,MIGE,21096,Schade Edzard,,ARIS/W,21098,"Wenk Bruno, Weinhold Thomas",,WTA1,21110,Vollenweider Martin,,STAN/S,21109,Sutter Monika,,,,,,,,,,TT.04.JJJJ 13:00,TT.04.JJJJ 14:30
+16,Fri,4/22/2016,15:00,-,16:30,MIGE,21096,Schade Edzard,,ARIS/W,21098,"Wenk Bruno, Weinhold Thomas",,WTA1,21110,Vollenweider Martin,,STAN/S,21109,Sutter Monika,,,,,,,,,,TT.04.JJJJ 15:00,TT.04.JJJJ 16:30
+17,Tue,4/26/2016,13:15,-,14:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.04.JJJJ 13:15,TT.04.JJJJ 14:50
+17,Tue,4/26/2016,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.04.JJJJ 15:15,TT.04.JJJJ 16:50
+17,Tue,4/26/2016,17:00,-,18:30,WOR2,21093,Semar Wolfgang,,RECHT,21102,"Köhler Daniel, Niggemeier Fabian",,,,,,STAN,21109,Vardanyan Ekaterina,,,,,,,,,,TT.04.JJJJ 17:00,TT.04.JJJJ 18:30
+17,Tue,4/26/2016,19:00,-,20:30,WOR2,21093,Semar Wolfgang,,RECHT,21102,"Köhler Daniel, Niggemeier Fabian",,,,,,STAN,21109,Vardanyan Ekaterina,,,,,,,,,,TT.04.JJJJ 19:00,TT.04.JJJJ 20:30
+17,Fri,4/29/2016,8:30,-,10:00,DBMS,21092,Weichselbraun Albert,,ESAS,21103,Dahinden Urs,,BMAN,21154,Mumenthaler Rudolf,,KOLL,21250,-,,,,,,,,,,TT.04.JJJJ 08:30,TT.04.JJJJ 10:00
+17,Fri,4/29/2016,10:30,-,12:00,DBMS,21092,Weichselbraun Albert,,ESAS,21103,Dahinden Urs,,BMAN,21154,Mumenthaler Rudolf,,KOLL,21250,-,,,,,,,,,,TT.04.JJJJ 10:30,TT.04.JJJJ 12:00
+17,Fri,4/29/2016,13:00,-,14:30,BWGL1,21095,Wellinger Dario,,IGEP,21097,Zimmermann Hans-Dieter,,WTA1,21110,Vollenweider Martin,,KOLL,21250,-,,,,,,,,,,TT.04.JJJJ 13:00,TT.04.JJJJ 14:30
+17,Fri,4/29/2016,15:00,-,16:30,BWGL1,21095,Wellinger Dario,,IGEP,21097,Zimmermann Hans-Dieter,,WTA1,21110,Vollenweider Martin,,KOLL,21250,-,,,,,,,,,,TT.04.JJJJ 15:00,TT.04.JJJJ 16:30
+17,Sat,4/30/2016,8:30,-,10:00,,,,,,,,,KOLL,21108,Zimmermann Hans-Dieter,,KOLL,21250,-,,,,,,,,,,TT.04.JJJJ 08:30,TT.04.JJJJ 10:00
+17,Sat,4/30/2016,10:30,-,12:00,,,,,,,,,KOLL,21108,Zimmermann Hans-Dieter,,KOLL,21250,-,,,,,,,,,,TT.04.JJJJ 10:30,TT.04.JJJJ 12:00
+17,Sat,4/30/2016,13:00,-,14:30,,,,,,,,,KOLL,21108,Zimmermann Hans-Dieter,,KOLL,21250,-,,,,,,,,,,TT.04.JJJJ 13:00,TT.04.JJJJ 14:30
+17,Sat,4/30/2016,15:00,-,16:30,,,,,,,,,KOLL,21108,Zimmermann Hans-Dieter,,KOLL,21250,-,,,,,,,,,,TT.04.JJJJ 15:00,TT.04.JJJJ 16:30
+18,Tue,5/3/2016,13:15,-,14:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.05.JJJJ 13:15,TT.05.JJJJ 14:50
+18,Tue,5/3/2016,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.05.JJJJ 15:15,TT.05.JJJJ 16:50
+18,Tue,5/3/2016,17:00,-,18:30,IMWM,21091,"Schade Edzard, Kraus Pavel",,DPMS,21099,"Wenk Bruno, Pfeiffer Michel",,EBUS/Z,21108,Zimmermann Hans-Dieter,,EBUS/Z,21108,Zimmermann Hans-Dieter,,,,,,1,,,,TT.05.JJJJ 17:00,TT.05.JJJJ 18:30
+18,Tue,5/3/2016,19:00,-,20:30,IMWM,21091,"Schade Edzard, Kraus Pavel",,DPMS,21099,"Wenk Bruno, Pfeiffer Michel",,EBUS/Z,21108,Zimmermann Hans-Dieter,,EBUS/Z,21108,Zimmermann Hans-Dieter,,,,,,1,,,,TT.05.JJJJ 19:00,TT.05.JJJJ 20:30
+18,Fri,5/6/2016,8:30,-,10:00,DBMS,21092,Weichselbraun Albert,,SOBER,21101,"Schuldt Karsten, Mumenthaler Rudolf",,EBUS/T,21108,Tamm Gerrit,,EBUS/T,21108,Tamm Gerrit,,,,,,1,,,,TT.05.JJJJ 08:30,TT.05.JJJJ 10:00
+18,Fri,5/6/2016,10:30,-,12:00,DBMS,21092,Weichselbraun Albert,,SOBER,21101,"Schuldt Karsten, Mumenthaler Rudolf",,EBUS/T,21108,Tamm Gerrit,,EBUS/T,21108,Tamm Gerrit,,,,,,1,,,,TT.05.JJJJ 10:30,TT.05.JJJJ 12:00
+18,Fri,5/6/2016,13:00,-,14:30,IRGR,21094,Bekavac Bernard,,ARIS/W,21098,"Wenk Bruno, Weinhold Thomas",,EBUS/T,21108,Tamm Gerrit,,EBUS/T,21108,Tamm Gerrit,,,,,,1,,,,TT.05.JJJJ 13:00,TT.05.JJJJ 14:30
+18,Fri,5/6/2016,15:00,-,16:30,IRGR,21094,Bekavac Bernard,,ARIS/W,21098,"Wenk Bruno, Weinhold Thomas",,EBUS/T,21108,Tamm Gerrit,,EBUS/T,21108,Tamm Gerrit,,,,,,1,,,,TT.05.JJJJ 15:00,TT.05.JJJJ 16:30
+19,Tue,5/10/2016,13:15,-,14:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.05.JJJJ 13:15,TT.05.JJJJ 14:50
+19,Tue,5/10/2016,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.05.JJJJ 15:15,TT.05.JJJJ 16:50
+19,Tue,5/10/2016,17:00,-,18:30,BWGL1,21095,Wellinger Dario,,RECHT,21102,"Köhler Daniel, Niggemeier Fabian",,SEM,21105,Barkow Ingo,,ATBW,21106,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.05.JJJJ 17:00,TT.05.JJJJ 18:30
+19,Tue,5/10/2016,19:00,-,20:30,BWGL1,21095,Wellinger Dario,,RECHT,21102,"Köhler Daniel, Niggemeier Fabian",,SEM,21105,Barkow Ingo,,ATBW,21106,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.05.JJJJ 19:00,TT.05.JJJJ 20:30
+19,Fri,5/13/2016,8:30,-,10:00,DBMS,21092,Weichselbraun Albert,,IGEP,21097,Zimmermann Hans-Dieter,,PRAC/R,21107,"Rauh Felix, Schürpf Markus, Niederhäuser Yves, Müller Rudolf, David Landolf",,PRAC/R,21107,"Rauh Felix, Schürpf Markus, Niederhäuser Yves, Müller Rudolf, David Landolf",,,,,,1,,,,TT.05.JJJJ 08:30,TT.05.JJJJ 10:00
+19,Fri,5/13/2016,10:30,-,12:00,DBMS,21092,Weichselbraun Albert,,IGEP,21097,Zimmermann Hans-Dieter,,PRAC/R,21107,"Rauh Felix, Schürpf Markus, Niederhäuser Yves, Müller Rudolf, David Landolf",,PRAC/R,21107,"Rauh Felix, Schürpf Markus, Niederhäuser Yves, Müller Rudolf, David Landolf",,,,,,1,,,,TT.05.JJJJ 10:30,TT.05.JJJJ 12:00
+19,Fri,5/13/2016,13:00,-,14:30,MIGE,21096,Schade Edzard,,ESAS,21103,Dahinden Urs,,WTA1,21110,Vollenweider Martin,,STAN/V,21109,Viegener Tobias,,,,,,,,,,TT.05.JJJJ 13:00,TT.05.JJJJ 14:30
+19,Fri,5/13/2016,15:00,-,16:30,MIGE,21096,Schade Edzard,,ESAS,21103,Dahinden Urs,,WTA1,21110,Vollenweider Martin,,STAN/V,21109,Viegener Tobias,,,,,,,,,,TT.05.JJJJ 15:00,TT.05.JJJJ 16:30
+20,Tue,5/17/2016,13:15,-,14:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.05.JJJJ 13:15,TT.05.JJJJ 14:50
+20,Tue,5/17/2016,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.05.JJJJ 15:15,TT.05.JJJJ 16:50
+20,Tue,5/17/2016,17:00,-,18:30,IMWM,21091,"Schade Edzard, Kraus Pavel",,DPMS,21099,"Wenk Bruno, Pfeiffer Michel",,BMAN,21154,Mumenthaler Rudolf,,,,,,,,,,,,,,TT.05.JJJJ 17:00,TT.05.JJJJ 18:30
+20,Tue,5/17/2016,19:00,-,20:30,IMWM,21091,"Schade Edzard, Kraus Pavel",,DPMS,21099,"Wenk Bruno, Pfeiffer Michel",,BMAN,21154,Mumenthaler Rudolf,,,,,,,,,,,,,,TT.05.JJJJ 19:00,TT.05.JJJJ 20:30
+20,Fri,5/20/2016,8:30,-,10:00,DBMS,21092,Weichselbraun Albert,,ARIS/W,21098,"Wenk Bruno, Weinhold Thomas",,PK,21104,"Schär Armando, Aufleger Stefanie",,ATBW,21106,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.05.JJJJ 08:30,TT.05.JJJJ 10:00
+20,Fri,5/20/2016,10:30,-,12:00,DBMS,21092,Weichselbraun Albert,,ARIS/W,21098,"Wenk Bruno, Weinhold Thomas",,PK,21104,"Schär Armando, Aufleger Stefanie",,ATBW,21106,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.05.JJJJ 10:30,TT.05.JJJJ 12:00
+20,Fri,5/20/2016,13:00,-,14:30,BWGL1,21095,Wellinger Dario,,SOBER,21101,"Schuldt Karsten, Mumenthaler Rudolf",,WTA1,21110,Vollenweider Martin,,USUK,21090,Bosiers Simonne Jacques Maria,,,,,,,,,,TT.05.JJJJ 13:00,TT.05.JJJJ 14:30
+20,Fri,5/20/2016,15:00,-,16:30,BWGL1,21095,Wellinger Dario,,SOBER,21101,"Schuldt Karsten, Mumenthaler Rudolf",,WTA1,21110,Vollenweider Martin,,USUK,21090,Bosiers Simonne Jacques Maria,,,,,,,,,,TT.05.JJJJ 15:00,TT.05.JJJJ 16:30
+21,Tue,5/24/2016,13:15,-,14:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.05.JJJJ 13:15,TT.05.JJJJ 14:50
+21,Tue,5/24/2016,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.05.JJJJ 15:15,TT.05.JJJJ 16:50
+21,Tue,5/24/2016,17:00,-,18:30,MIGE,21096,Schade Edzard,,DPMS,21099,"Wenk Bruno, Pfeiffer Michel",,BMAN,21154,Mumenthaler Rudolf,,,,,,,,,,,,,,TT.05.JJJJ 17:00,TT.05.JJJJ 18:30
+21,Tue,5/24/2016,19:00,-,20:30,MIGE,21096,Schade Edzard,,DPMS,21099,"Wenk Bruno, Pfeiffer Michel",,BMAN,21154,Mumenthaler Rudolf,,,,,,,,,,,,,,TT.05.JJJJ 19:00,TT.05.JJJJ 20:30
+21,Fri,5/27/2016,8:30,-,10:00,DBMS,21092,Weichselbraun Albert,,ESAS,21103,Dahinden Urs,,SEM,21105,Barkow Ingo,,ATBW,21106,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.05.JJJJ 08:30,TT.05.JJJJ 10:00
+21,Fri,5/27/2016,10:30,-,12:00,DBMS,21092,Weichselbraun Albert,,ESAS,21103,Dahinden Urs,,SEM,21105,Barkow Ingo,,ATBW,21106,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,,,,TT.05.JJJJ 10:30,TT.05.JJJJ 12:00
+21,Fri,5/27/2016,13:00,-,14:30,IRGR,21094,Bekavac Bernard,,IGEP,21097,Zimmermann Hans-Dieter,,SEM,21105,Barkow Ingo,,,,,,,,,,,,,,TT.05.JJJJ 13:00,TT.05.JJJJ 14:30
+21,Fri,5/27/2016,15:00,-,16:30,IRGR,21094,Bekavac Bernard,,IGEP,21097,Zimmermann Hans-Dieter,,SEM,21105,Barkow Ingo,,,,,,,,,,,,,,TT.05.JJJJ 15:00,TT.05.JJJJ 16:30
+22,Tue,5/31/2016,13:15,-,14:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.05.JJJJ 13:15,TT.05.JJJJ 14:50
+22,Tue,5/31/2016,15:15,-,16:50,,,,,,,,,,,,,,,,,,,,,,,,,TT.05.JJJJ 15:15,TT.05.JJJJ 16:50
+22,Tue,5/31/2016,17:00,-,18:30,WOR2,21093,Semar Wolfgang,,RECHT,21102,"Köhler Daniel, Niggemeier Fabian",,BMAN,21154,Mumenthaler Rudolf,,,,,,,,,,,,,,TT.05.JJJJ 17:00,TT.05.JJJJ 18:30
+22,Tue,5/31/2016,19:00,-,20:30,WOR2,21093,Semar Wolfgang,,RECHT,21102,"Köhler Daniel, Niggemeier Fabian",,BMAN,21154,Mumenthaler Rudolf,,,,,,,,,,,,,,TT.05.JJJJ 19:00,TT.05.JJJJ 20:30
+22,Fri,6/3/2016,8:30,-,10:00,DBMS,21092,Weichselbraun Albert,,SOBER,21101,"Schuldt Karsten, Mumenthaler Rudolf",,EBUS/Z,21108,Zimmermann Hans-Dieter,,EBUS/Z,21108,Zimmermann Hans-Dieter,,,,,,1,,,,TT.06.JJJJ 08:30,TT.06.JJJJ 10:00
+22,Fri,6/3/2016,10:30,-,12:00,DBMS,21092,Weichselbraun Albert,,SOBER,21101,"Schuldt Karsten, Mumenthaler Rudolf",,EBUS/Z,21108,Zimmermann Hans-Dieter,,EBUS/Z,21108,Zimmermann Hans-Dieter,,,,,,1,,,,TT.06.JJJJ 10:30,TT.06.JJJJ 12:00
+22,Fri,6/3/2016,13:00,-,14:30,IRGR,21094,Bekavac Bernard,,ARIS/W,21098,"Wenk Bruno, Weinhold Thomas",,SEM,21105,Barkow Ingo,,STAN,21109,Vardanyan Ekaterina,,,,,,,,,,TT.06.JJJJ 13:00,TT.06.JJJJ 14:30
+22,Fri,6/3/2016,15:00,-,16:30,IRGR,21094,Bekavac Bernard,,ARIS/W,21098,"Wenk Bruno, Weinhold Thomas",,SEM,21105,Barkow Ingo,,STAN,21109,Vardanyan Ekaterina,,,,,,,,,,TT.06.JJJJ 15:00,TT.06.JJJJ 16:30
+23,Wed,6/8/2016,10:15,-,11:50,MIGE,21096,Schade Edzard,,DPMS,21099,"Wenk Bruno, Pfeiffer Michel",,PRAC/G,21107,Giovannini Andrea,,PRAC/G,21107,Giovannini Andrea,,,,,,1,,,,TT.06.JJJJ 10:15,TT.06.JJJJ 11:50
+23,Wed,6/8/2016,13:15,-,14:50,MIGE,21096,Schade Edzard,,DPMS,21099,"Wenk Bruno, Pfeiffer Michel",,PRAC/G,21107,Giovannini Andrea,,PRAC/G,21107,Giovannini Andrea,,,,,,1,,,,TT.06.JJJJ 13:15,TT.06.JJJJ 14:50
+23,Wed,6/8/2016,15:15,-,16:50,MIGE,21096,Schade Edzard,,DPMS,21099,"Wenk Bruno, Pfeiffer Michel",,PRAC/G,21107,Giovannini Andrea,,PRAC/G,21107,Giovannini Andrea,,,,,,1,,,,TT.06.JJJJ 15:15,TT.06.JJJJ 16:50
+23,Wed,6/8/2016,17:00,-,18:30,IMWM,21091,"Schade Edzard, Kraus Pavel",,,,,,PRAC/G,21107,Giovannini Andrea,,PRAC/G,21107,Giovannini Andrea,,,,,,1,,,,TT.06.JJJJ 17:00,TT.06.JJJJ 18:30
+23,Thu,6/9/2016,8:15,-,9:50,IMWM,21091,"Schade Edzard, Kraus Pavel",,ARIS/B,21098,Bekavac Bernard,,PRAC/G,21107,Giovannini Andrea,,PRAC/G,21107,Giovannini Andrea,,,,,,1,,,,TT.06.JJJJ 08:15,TT.06.JJJJ 09:50
+23,Thu,6/9/2016,10:15,-,11:50,IMWM,21091,"Schade Edzard, Kraus Pavel",,ARIS/B,21098,Bekavac Bernard,,PRAC/G,21107,Giovannini Andrea,,PRAC/G,21107,Giovannini Andrea,,,,,,1,,,,TT.06.JJJJ 10:15,TT.06.JJJJ 11:50
+23,Thu,6/9/2016,13:15,-,14:50,WOR2,21093,Semar Wolfgang,,ARIS/B,21098,Bekavac Bernard,,PRAC/G,21107,Giovannini Andrea,,PRAC/G,21107,Giovannini Andrea,,,,,,1,,,,TT.06.JJJJ 13:15,TT.06.JJJJ 14:50
+23,Thu,6/9/2016,15:15,-,16:50,WOR2,21093,Semar Wolfgang,,ARIS/B,21098,Bekavac Bernard,,PRAC/G,21107,Giovannini Andrea,,PRAC/G,21107,Giovannini Andrea,,,,,,1,,,,TT.06.JJJJ 15:15,TT.06.JJJJ 16:50
+23,Thu,6/9/2016,17:00,-,18:30,,,,,,,,,,,,,,,,,,,,,,,,,TT.06.JJJJ 17:00,TT.06.JJJJ 18:30
+23,Fri,6/10/2016,8:15,-,9:50,WOR2,21093,Semar Wolfgang,,IR2,21100,Buchkremer Rüdiger,,PRAC/G,21107,Giovannini Andrea,,PRAC/G,21107,Giovannini Andrea,,,,,,1,,,,TT.06.JJJJ 08:15,TT.06.JJJJ 09:50
+23,Fri,6/10/2016,10:15,-,11:50,DBMS,21092,Weichselbraun Albert,,IR2,21100,Buchkremer Rüdiger,,PRAC/G,21107,Giovannini Andrea,,PRAC/G,21107,Giovannini Andrea,,,,,,1,,,,TT.06.JJJJ 10:15,TT.06.JJJJ 11:50
+23,Fri,6/10/2016,13:15,-,14:50,DBMS,21092,Weichselbraun Albert,,IR2,21100,Buchkremer Rüdiger,,PK,21104,"Schär Armando, Aufleger Stefanie",,,,,,,,,,,,,,TT.06.JJJJ 13:15,TT.06.JJJJ 14:50
+23,Fri,6/10/2016,15:15,-,16:50,DBMS,21092,Weichselbraun Albert,,IR2,21100,Buchkremer Rüdiger,,PK,21104,"Schär Armando, Aufleger Stefanie",,,,,,,,,,,,,,TT.06.JJJJ 15:15,TT.06.JJJJ 16:50
+23,Sat,6/11/2016,8:15,-,9:50,BWGL1,21095,Wellinger Dario,,ARIS/W,21098,"Wenk Bruno, Weinhold Thomas",,BMAN,21154,Mumenthaler Rudolf,,,,,,,,,,,,,,TT.06.JJJJ 08:15,TT.06.JJJJ 09:50
+23,Sat,6/11/2016,10:15,-,11:50,BWGL1,21095,Wellinger Dario,,ARIS/W,21098,"Wenk Bruno, Weinhold Thomas",,BMAN,21154,Mumenthaler Rudolf,,,,,,,,,,,,,,TT.06.JJJJ 10:15,TT.06.JJJJ 11:50
+23,Sat,6/11/2016,12:15,-,13:50,BWGL1,21095,Wellinger Dario,,,,,,BMAN,21154,Mumenthaler Rudolf,,,,,,,,,,,,,,TT.06.JJJJ 12:15,TT.06.JJJJ 13:50
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AnlassCODE,Anlassbezeichnung,,,,,,,,,,Dozierende,,,,,,,ECTS,DL,AnlassID,,,,,,,,,,,
+I2tz,ZG 1362,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BWGL1,Betriebswirtschaftliche Grundlagen 1,,,,,,,,,,Wellinger Dario,,,,,,,4,19,21095,,,,,,,,,,,
+DBMS,Datenbanksysteme,,,,,,,,,,Weichselbraun Albert,,,,,,,4,19,21092,,,,,,,,,,,
+IMWM,Informations- und Wissensmanagement,,,,,,,,,,"Schade Edzard, Kraus Pavel",,,,,,,4,19,21091,,,,,,,,,,,
+IRGR,Retrievalgrundlagen und -modelle,,,,,,,,,,Bekavac Bernard,,,,,,,4,19,21094,,,,,,,,,,,
+MIGE,Medien-und Informationsgesellschaft,,,,,,,,,,Schade Edzard,,,,,,,4,19,21096,,,,,,,,,,,
+WOR2,Wissensorganisaton und -repräsentation 2,,,,,,,,,,Semar Wolfgang,,,,,,,4,19,21093,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+I4tz,ZG 1361,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ARIS/B,Architektur von Informationssystemen,,,,,,,,,,Bekavac Bernard,,,,,,,,4,21098,,,,,,,,,,,
+ARIS/W,Architektur von Informationssystemen,,,,,,,,,,"Wenk Bruno, Weinhold Thomas",,,,,,,5,20,21098,,,,,,,,,,,
+DPMS,Digitales Pulizieren und Multimediasysteme,,,,,,,,,,"Wenk Bruno, Pfeiffer Michel",,,,,,,4,17,21099,,,,,,,,,,,
+ESAS,Empirische Sozialforschung,,,,,,,,,,Dahinden Urs,,,,,,,3,14,21103,,,,,,,,,,,
+IGEP,"Informationsgesellschaft, -ethik, -politik",,,,,,,,,,Zimmermann Hans-Dieter,,,,,,,4,14,21097,,,,,,,,,,,
+IR2,Information Retrieval 2,,,,,,,,,,Buchkremer Rüdiger,,,,,,,3,12,21100,,,,,,,,,,,
+RECHT,Informationsrecht,,,,,,,,,,"Köhler Daniel, Niggemeier Fabian",,,,,,,2,12,21102,,,,,,,,,,,
+SOBER,Sozialpsychologie und Benutzerberatung,,,,,,,,,,"Schuldt Karsten, Mumenthaler Rudolf",,,,,,,3,14,21101,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+I6tz,ZG 1360,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BMAN,Bibliotheksmanagement,,,,,,,,,,Mumenthaler Rudolf,,,,,,,4,20,21154,,,,,,,,,,,
+EBUS/T,Electronic Business,,,,,,,,,,Tamm Gerrit,,,,,,,2,10,21108,,,,,,,,,,,
+EBUS/Z,Electronic Business,,,,,,,,,,Zimmermann Hans-Dieter,,,,,,,2,10,21108,,,,,,,,,,,
+PK,Projektkurs,,,,,,,,,,"Schär Armando, Aufleger Stefanie",,,,,,,6,10,21104,,,,,,,,,,,
+PRAC/G,Preservation und Access,,,,,,,,,,Giovannini Andrea,,,,,,,2,10,21107,,,,,,,,,,,
+PRAC/R,Preservation und Access,,,,,,,,,,"Rauh Felix, Schürpf Markus, Niederhäuser Yves, Müller Rudolf, David Landolf",,,,,,,2,10,21107,,,,,,,,,,,
+SEM,Seminar,,,,,,,,,,Barkow Ingo,,,,,,,4,14,21105,,,,,,,,,,,
+WTA1,Webtechnologien / Anwendung 1,,,,,,,,,,Vollenweider Martin,,,,,,,4,20,21110,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+I8tz,ZG 1358,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ATBW,Aktuelle Trends der Bibliothekswissenschaft,,,,,,,,,,"Mumenthaler Rudolf, Schuldt Karsten",,,,,,,4,20,21106,,,,,,,,,,,
+EBUS/T,Electronic Business,,,,,,,,,,Tamm Gerrit,,,,,,,2,10,21108,,,,,,,,,,,
+EBUS/Z,Electronic Business,,,,,,,,,,Zimmermann Hans-Dieter,,,,,,,2,10,21108,,,,,,,,,,,
+KOLL,Kolloquium,,,,,,,,,,-,,,,,,,,8,21250,,,,,,,,,,,
+PRAC/G,Preservation und Access,,,,,,,,,,Giovannini Andrea,,,,,,,2,10,21107,,,,,,,,,,,
+PRAC/R,Preservation und Access,,,,,,,,,,"Rauh Felix, Schürpf Markus, Niederhäuser Yves, Müller Rudolf, David Landolf",,,,,,,2,10,21107,,,,,,,,,,,
+STAN,Standards und Regelwerke,,,,,,,,,,Vardanyan Ekaterina,,,,,,,2,21,21109,,,,,,,,,,,
+STAN/S,Standards und Regelwerke,,,,,,,,,,Sutter Monika,,,,,,,2,10,21109,,,,,,,,,,,
+STAN/V,Standards und Regelwerke,,,,,,,,,,Viegener Tobias,,,,,,,,2,21109,,,,,,,,,,,
+USUK,Usability und Konzeption,,,,,,,,,,Bosiers Simonne Jacques Maria,,,,,,,,2,21090,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,Fach2,SOLL,IST,Fach4,SOLL,IST,Fach6,SOLL,IST,Fach8,SOLL,IST,,,,,,,,,,,,,,
+,,,,,,BWGL1,19,19,ARIS/B,4,4,BMAN,20,20,ATBW,20,20,,,,,,,,,,,,,,
+,,,,,,Fach2,,,Fach4,,,Fach6,,,Fach8,,,,,,,,,,,,,,,,
+,,,,,,DBMS,19,19,ARIS/W,20,20,EBUS/T,10,10,EBUS/T,10,10,,,,,,,,,,,,,,
+,,,,,,Fach2,,,Fach4,,,Fach6,,,Fach8,,,,,,,,,,,,,,,,
+,,,,,,IMWM,19,19,DPMS,17,17,EBUS/Z,10,10,EBUS/Z,10,10,,,,,,,,,,,,,,
+,,,,,,Fach2,,,Fach4,,,Fach6,,,Fach8,,,,,,,,,,,,,,,,
+,,,,,,IRGR,19,19,ESAS,14,14,PK,10,10,KOLL,8,8,,,,,,,,,,,,,,
+,,,,,,Fach2,,,Fach4,,,Fach6,,,Fach8,,,,,,,,,,,,,,,,
+,,,,,,MIGE,19,19,IGEP,14,14,PRAC/G,10,10,PRAC/G,10,10,,,,,,,,,,,,,,
+,,,,,,Fach2,,,Fach4,,,Fach6,,,Fach8,,,,,,,,,,,,,,,,
+,,,,,,WOR2,19,19,IR2,12,12,PRAC/R,10,10,PRAC/R,10,10,,,,,,,,,,,,,,
+,,,,,,,,,Fach4,,,Fach6,,,Fach8,,,,,,,,,,,,,,,,
+,,,,,,,,,RECHT,12,12,SEM,14,14,STAN,21,9,,,,,,,,,,,,,,
+,,,,,,,,,Fach4,,,Fach6,,,Fach8,,,,,,,,,,,,,,,,
+,,,,,,,,,SOBER,14,14,WTA1,20,20,STAN/S,10,10,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,Fach8,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,STAN/V,2,2,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,Fach8,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,USUK,2,2,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,Summe,114,114,Summe,107,107,Summe,104,104,Summe,103,91,,,,,,,,,,,,,,
+,,,,,,Max,114,,Max,114,,Max,114,,Max,106,,,,,,,,,,,,,,,
+,,,,,,Diff,0,,Diff,7,,Diff,10,,Diff,3,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Basisjahr,,2015,2016,,,IW15_tz,,,IW14_tz,,,IW13_tz,,,IW12_tz,,,,,,,,,,,,,,,,
+HS oder FS?,,FS,,,,2,,,4,,,6,,,8,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+mailto:thomas.borer@htwchur.ch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
